@@ -1,0 +1,482 @@
+body {
+    width:100%;
+    overflow-x: hidden;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1 {
+    text-align: center;
+}
+* {
+    box-sizing: border-box;
+  }
+.row h2 {
+  margin: auto;
+  margin-bottom: 2em;
+  font-size: 2.1em;
+}
+
+.white-row-block{
+  line-height: 1.3em;
+  font-size: 1.2em !important;
+  margin: 0 0 3em;
+}
+
+.grey-row-block{
+
+  background-color: #F7F8FC;
+  border-radius: 50px;
+}
+
+.row > p {
+  line-height: 1.3em;
+  font-size: 1.2em !important;
+  text-align: start;
+  margin-left: .4em;
+}
+main { 
+    text-align: center;
+    /* padding: 0em 10em; */
+}
+.some-space {
+  line-height: 1.3em;
+  font-size: 1.2em !important;
+    margin: 1em 0em 8em;
+
+    padding: 1em 13em;
+}
+.sub-video-container{
+    height: 500px;
+    margin-bottom: 5em;
+}
+.sub-video-container iframe {
+    height: 100%;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 5em 0em;
+    width: 80%;
+    margin: auto;
+   
+    
+
+}
+
+ul {
+  padding-left: 3px;
+  line-height: 1.8em;
+  font-size: 1.2em !important;
+  color: #5E6971;
+  text-align: start;
+  list-style-type: none;
+}
+li {
+  padding: 1em 10%;
+  
+}
+li > ul {
+  line-height: 1.4em;
+  font-size: 1em !important;
+  color: #5E69F1;
+  text-align: start;
+  margin-left: 2em;
+  margin-top: 1em;
+}
+.smaller-font > li {
+  font-size: .8em;
+  padding: .6em 10%;
+  color: #090d47;
+}
+li > ul > li {
+  padding: .3em 1.5em;
+}
+
+.lots-of-margin-top {
+  margin-top: 23em;
+  margin-bottom: 5em;
+}
+
+.smaller-padding {
+    padding: 1%;
+    width: 100%;
+}
+
+.video-side-text {
+    /* margin: 0 2.5%;
+    flex: 0 0 50%; */
+    max-width: 45%;
+
+
+    margin: 0px 4% 0px 16%;
+    flex: 0 0 30%;
+}
+
+.youtube-video-container {
+    /* max-width: 45%;
+    margin: 0 2.5%; */
+    max-width: 30%;
+    margin: 0 16% 0 4%;
+}
+
+
+
+
+iframe{
+    max-width: 100%;
+    border: 20px;
+    border-radius: 20px;
+    height: 260px;
+    
+}
+
+.content {
+    margin-bottom: 5em;
+}
+.content p {
+    text-align: justify;
+    margin-bottom: 1rem;
+    
+}
+
+.content quote {
+    font-style: italic;
+}
+.video-side-text p {
+    font-size: 1.1em;
+}
+.video-side-text li {
+    margin-bottom: .5em;
+    display: block;
+    font-display: inherit;
+    font-size: 1em;
+}
+.time-box{
+    /* display: inline; */
+    width: 100px;
+    
+}
+
+#timer, #timer2{
+    margin: 30px 0px;
+    display: inline-flex;
+}
+button {
+  align-items: center;
+  background-color: red;
+  border: 0;
+  border-radius: 100px;
+  box-sizing: border-box;
+  color: #ffffff;
+  cursor: pointer;
+  display: inline-flex;
+  font-family: -apple-system, system-ui, system-ui, "Segoe UI", Roboto, "Helvetica Neue", "Fira Sans", Ubuntu, Oxygen, "Oxygen Sans", Cantarell, "Droid Sans", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Lucida Grande", Helvetica, Arial, sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  justify-content: center;
+  line-height: 20px;
+  max-width: 480px;
+  min-height: 40px;
+  min-width: 0px;
+  overflow: hidden;
+  padding: 0px 20px;
+
+  text-align: center;
+  touch-action: manipulation;
+  transition: background-color 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s, box-shadow 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s, color 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s;
+  user-select: none;
+  -webkit-user-select: none;
+  vertical-align: middle;
+}
+
+button:hover,
+button:focus { 
+  background-color: #d11717;
+  color: #ffffff;
+}
+
+button:active {
+  background: #3b0911;
+  color: rgb(255, 255, 255, .7);
+}
+
+button:disabled { 
+  cursor: not-allowed;
+  background: rgba(0, 0, 0, .08);
+  color: rgba(0, 0, 0, .3);
+}
+
+
+
+
+/* Creating the timeline  */
+
+
+
+/* The actual timeline (the vertical ruler) */
+.timeline {
+
+    background-color: #F7F8FC;
+    position: relative;
+    max-width: 1200px;
+    margin: 0 auto;
+    border-radius: 20px;
+    margin-top: 3em;
+  }
+  
+  /* The actual timeline (the vertical ruler) */
+  .timeline::after {
+    content: '';
+    position: absolute;
+    width: 6px;
+    background-color: white;
+    top: 0;
+    bottom: 0;
+    left: 50%;
+    margin-left: -3px;
+  }
+  
+  /* Container around content */
+  .timeline-container {
+    padding: 10px 40px;
+    position: relative;
+    background-color: inherit;
+    width: 50%;
+  }
+  
+  /* The circles on the timeline */
+  .timeline-container::after {
+    content: '';
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    right: -17px;
+    background-color: white;
+    border: 4px solid #FF9F55;
+    top: 15px;
+    border-radius: 50%;
+    z-index: 1;
+  }
+
+  .timeline-container:hover:after{
+    background-color: black;
+  }
+  
+  /* Place the container to the left */
+  .timeline-left {
+    left: 0;
+    border-radius: 20px;
+  }
+  
+  /* Place the container to the right */
+  .timeline-right {
+    left: 50%;
+  }
+  
+  /* Add arrows to the left container (pointing right) */
+  .timeline-left::before {
+    content: " ";
+    height: 0;
+    position: absolute;
+    top: 22px;
+    width: 0;
+    z-index: 1;
+    right: 30px;
+    border: medium solid white;
+    border-width: 10px 0 10px 10px;
+    border-color: transparent transparent transparent white;
+  }
+  
+  /* Add arrows to the right container (pointing left) */
+  .timeline-right::before {
+    content: " ";
+    height: 0;
+    position: absolute;
+    top: 22px;
+    width: 0;
+    z-index: 1;
+    left: 30px;
+    border: medium solid white;
+    border-width: 10px 10px 10px 0;
+    border-color: transparent white transparent transparent;
+  }
+  
+  /* Fix the circle for containers on the right side */
+  .timeline-right::after {
+    left: -16px;
+  }
+  
+  /* The actual content */
+  .timeline-content {
+    padding: 20px 30px;
+    background-color: white;
+    position: relative;
+    border-radius: 6px;
+  }
+  
+  /* Media queries - Responsive timeline on screens less than 600px wide */
+  @media screen and (max-width: 600px) {
+  /* Place the timelime to the left */
+    .timeline::after {
+      left: 31px;
+    }
+  
+  /* Full-width containers */
+    .timeline-container {
+      width: 100%;
+      padding-left: 70px;
+      padding-right: 25px;
+    }
+  
+  /* Make sure that all arrows are pointing leftwards */
+    .timeline-container::before {
+      left: 60px;
+      border: medium solid white;
+      border-width: 10px 10px 10px 0;
+      border-color: transparent white transparent transparent;
+    }
+  
+  /* Make sure all circles are at the same spot */
+    .timeline-left::after, .right::after {
+      left: 15px;
+    }
+  
+  /* Make all right containers behave like the left ones */
+    .timeline-right {
+      left: 0%;
+    }
+  }
+
+
+
+
+
+
+
+
+  /* FOOTER  */
+  
+footer {
+  /* background-color: black;
+  color: whitesmoke; */
+  padding: 1rem;
+
+  /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1rem;
+  
+
+
+  /* Center it and make it not fill up the whole screen */
+  width: 80%;
+  margin: 10px auto 0px;
+
+
+  border-top-style: solid;
+  border-color: black;
+  border-top-width: 1px;
+
+
+}
+
+
+footer p {
+  padding: 0;
+  margin-block-end: 0;
+  font-size: 0.6rem;
+  margin-block-start: 0;
+  margin-bottom: 6px;
+}
+
+
+.my-quotes {
+  display: flex;
+  justify-content: space-between;
+}
+
+
+.footer-info {
+  display: flex;
+  justify-content: space-between;
+}
+
+.social-media-links {
+  align-items: center;
+  display: flex;
+}
+
+.social-media-links a {
+  text-decoration: none;
+  color: white;
+}
+
+.social-media-links a img {
+  margin-right: 5px;
+}
+
+.github-image {
+  height: 20px;
+}
+
+
+.linkedin-image { 
+  height: 25px;
+}
+
+.gmail-image {
+  height: 25px;
+
+}
+
+h2 {
+  line-height: 1.2em;
+}
+
+@media (max-width: 500px) {
+ 
+
+ 
+  footer {
+      width: 92%;
+  }
+
+  .personal-sign-off {
+      width: 50%;
+      font-size: small;
+  }
+
+  a {
+      color: rgb(220, 50, 50, 0.7)
+  }
+}
+
+
+
+
+@media (max-width: 1000px) {
+  main {
+      padding: 0em 1em;
+  }
+  .youtube-video-container {
+      max-width: 90%;
+      margin: auto
+  }
+  .video-side-text{
+      max-width: 90%;
+      margin: auto;
+      margin-bottom: 10px;
+      flex: 0 0 90%;
+  }
+  .row {
+      padding: 0px;
+      margin-bottom: 20px;
+  }
+
+  .some-space {
+    padding: 1em ;
+  }
+
+  .time-box {
+    width: 70px;
+  }
+}
