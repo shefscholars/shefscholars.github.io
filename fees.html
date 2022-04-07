@@ -1,0 +1,130 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" type="text/css" href="css/main.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shef's Scholars</title>
+</head>
+<body>
+    <header>
+        <h1>
+            Shef's Scholars Fees
+        </h1>
+    </header>
+    <main>
+        <h2>
+            Currently there are no fees ! 
+        </h2>
+        
+        <div class="lots-of-margin-top">
+            <div class="call-to-action">
+
+                <a href="https://forms.gle/VypCjZJzPpabsM7E7">
+    
+            
+                    <button class="apply-button" >
+                        &#9200 Apply Now &#9200
+                        
+                    </button>
+                </a>    
+                <div id="demo">
+                    
+                    <div id = "timer">
+                        <div class="time-box">
+                            <div id="days-remaining">0</div>
+                            <div class="time-type">days</div>
+                        </div>
+                        <div class="time-box">
+                            <div id="hours-remaining">0</div>
+                            <div class="time-type">hours</div>
+                        </div>
+                        <div class="time-box">
+                            <div id="minutes-remaining">00</div>
+                            <div class="time-type">minutes</div>
+                        </div>
+                        <div class="time-box">
+                            <div id="seconds-remaining">0</div>
+                            <div class="time-type">seconds</div>
+                        </div>
+                    </div>
+                </div>
+            </div>    
+
+        </div>
+
+
+
+          
+    <footer>
+
+        <div class="my-quotes">
+            <div class="quote">
+                
+                <a href="terms.html">Terms and Condition</a>
+            </div>
+
+            <div class="quote">
+                <a href="privacy_policy.html">Privacy Policy </a>
+            </div>
+        </div>
+
+        <div class="footer-info">
+            <div class="social-media-links">
+                <a href="https://www.github.com/thesalko" target="_blank">
+                    <img  src="/images/icons/github_icon.png" class="github-image" alt="Github logo icon">
+                </a>
+                <a href="https://www.linkedin.com/in/thesalko "  target="_blank">
+                    <img  src="/images/icons/linkedin_icon.png" class="linkedin-image" alt="Linkedin logo icon">
+                </a>
+                <a href="mailto:salkoasja@gmail.com">
+                    <img  src="/images/icons/gmail_icon.png" class="gmail-image" alt="Gmail logo icon">
+                </a>
+
+
+            </div>
+            <div class="personal-sign-off">
+                Shef's Scholars 2022
+            </div>
+        </div>
+
+
+    </footer>
+    </main>
+    <script>  
+        var a;  
+        a = setInterval(fun, 1000);  
+        let countDownDate = new Date("April 14, 2022 23:59:59 UTC -8").getTime();
+        function fun(){
+            // Get today's date and time
+            var now = new Date().getTime();
+
+            // Find the distance between now and the count down date
+            var distance = countDownDate - now;
+
+            // Time calculations for days, hours, minutes and seconds
+            var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+            var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+            var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+            var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+            
+            // Display the result in the element with id="demo"
+            //document.getElementById("demo").innerHTML = days + "d " + hours + "h "
+            //+ minutes + "m " + seconds + "s ";
+            document.getElementById("days-remaining").innerHTML = days;
+            document.getElementById("hours-remaining").innerHTML = hours;
+            document.getElementById("minutes-remaining").innerHTML = minutes;
+            document.getElementById("seconds-remaining").innerHTML = seconds;
+
+            // If the count down is finished, write some text
+            if (distance < 0) {
+            //clearInterval(x);
+            document.getElementById("demo").innerHTML = "EXPIRED";
+            }
+        }
+
+    </script>  
+</body>
+</html>
