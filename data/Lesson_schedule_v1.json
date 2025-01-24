@@ -1,0 +1,704 @@
+[
+    {
+        "Lesson Title": "Divisibility",
+        "Subject": "Number Theory",
+        "Grade Level": "Beginner",
+        "Date and Time": "January 31, 2025 15:00 (GMT+1) \u2192 15:45",
+        "Objectives": "",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "Two Interesting Points in Geometry",
+        "Subject": "Geometry",
+        "Grade Level": "Machine",
+        "Date and Time": "January 31, 2025 15:00 (GMT+1) \u2192 15:45",
+        "Objectives": "",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "Modular Arithmetic",
+        "Subject": "Number Theory",
+        "Grade Level": "Apprentice",
+        "Date and Time": "January 31, 2025 15:45 (GMT+1) \u2192 16:30",
+        "Objectives": "",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "Inversion",
+        "Subject": "Geometry",
+        "Grade Level": "Shef",
+        "Date and Time": "January 31, 2025 15:45 (GMT+1) \u2192 16:30",
+        "Objectives": "",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "Group Work",
+        "Subject": "Number Theory",
+        "Grade Level": "Beginner",
+        "Date and Time": "January 31, 2025 15:45 (GMT+1) \u2192 17:30",
+        "Objectives": "Students will work together on problems that were presented in the lecture in groups",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Groupwork"
+    },
+    {
+        "Lesson Title": "Group Work",
+        "Subject": "Geometry",
+        "Grade Level": "Machine",
+        "Date and Time": "January 31, 2025 15:45 (GMT+1) \u2192 17:30",
+        "Objectives": "Students will work together on problems that were presented in the lecture in groups",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Groupwork"
+    },
+    {
+        "Lesson Title": "Group Work",
+        "Subject": "Number Theory",
+        "Grade Level": "Apprentice",
+        "Date and Time": "January 31, 2025 16:30 (GMT+1) \u2192 18:15",
+        "Objectives": "Students will work together on problems that were presented in the lecture in groups",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Groupwork"
+    },
+    {
+        "Lesson Title": "Group Work",
+        "Subject": "Geometry",
+        "Grade Level": "Shef",
+        "Date and Time": "January 31, 2025 16:30 (GMT+1) \u2192 18:15",
+        "Objectives": "Students will work together on problems that were presented in the lecture in groups",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Groupwork"
+    },
+    {
+        "Lesson Title": "Diophantine Equations",
+        "Subject": "Number Theory",
+        "Grade Level": "Beginner",
+        "Date and Time": "January 31, 2025 17:30 (GMT+1) \u2192 18:15",
+        "Objectives": "",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "Radical Axis Theorem",
+        "Subject": "Geometry",
+        "Grade Level": "Machine",
+        "Date and Time": "January 31, 2025 17:30 (GMT+1) \u2192 18:15",
+        "Objectives": "",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "Exponential Equations with Integers",
+        "Subject": "Number Theory",
+        "Grade Level": "Apprentice",
+        "Date and Time": "January 31, 2025 18:15 (GMT+1) \u2192 19:00",
+        "Objectives": "",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "Projective Geometry",
+        "Subject": "Geometry",
+        "Grade Level": "Shef",
+        "Date and Time": "January 31, 2025 18:15 (GMT+1) \u2192 19:00",
+        "Objectives": "",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "",
+        "Subject": "",
+        "Grade Level": "",
+        "Date and Time": "",
+        "Objectives": "",
+        "Lesson Status": "Not started",
+        "Teaching Method": ""
+    },
+    {
+        "Lesson Title": "Angle Chasing",
+        "Subject": "Geometry",
+        "Grade Level": "Beginner",
+        "Date and Time": "February 1, 2025 15:00 (GMT+1) \u2192 15:45",
+        "Objectives": "",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "Chinese Remainder Theorem",
+        "Subject": "Number Theory",
+        "Grade Level": "Machine",
+        "Date and Time": "February 1, 2025 15:00 (GMT+1) \u2192 15:45",
+        "Objectives": "",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "Concyclic Quadrilaterals",
+        "Subject": "Geometry",
+        "Grade Level": "Apprentice",
+        "Date and Time": "February 1, 2025 15:45 (GMT+1) \u2192 16:30",
+        "Objectives": "",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "Number Theory Constructions",
+        "Subject": "Number Theory",
+        "Grade Level": "Shef",
+        "Date and Time": "February 1, 2025 15:45 (GMT+1) \u2192 16:30",
+        "Objectives": "",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "Group Work",
+        "Subject": "Geometry",
+        "Grade Level": "Beginner",
+        "Date and Time": "February 1, 2025 15:45 (GMT+1) \u2192 17:30",
+        "Objectives": "Students will work together on problems that were presented in the lecture in groups",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Groupwork"
+    },
+    {
+        "Lesson Title": "Group Work",
+        "Subject": "Number Theory",
+        "Grade Level": "Machine",
+        "Date and Time": "February 1, 2025 15:45 (GMT+1) \u2192 17:30",
+        "Objectives": "Students will work together on problems that were presented in the lecture in groups",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Groupwork"
+    },
+    {
+        "Lesson Title": "Group Work",
+        "Subject": "Geometry",
+        "Grade Level": "Apprentice",
+        "Date and Time": "February 1, 2025 16:30 (GMT+1) \u2192 18:15",
+        "Objectives": "Students will work together on problems that were presented in the lecture in groups",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Groupwork"
+    },
+    {
+        "Lesson Title": "Group Work",
+        "Subject": "Number Theory",
+        "Grade Level": "Shef",
+        "Date and Time": "February 1, 2025 16:30 (GMT+1) \u2192 18:15",
+        "Objectives": "Students will work together on problems that were presented in the lecture in groups",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Groupwork"
+    },
+    {
+        "Lesson Title": "Angles in a Circle",
+        "Subject": "Geometry",
+        "Grade Level": "Beginner",
+        "Date and Time": "February 1, 2025 17:30 (GMT+1) \u2192 18:15",
+        "Objectives": "",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "Euler\u2019s Totient Function and Order of Element",
+        "Subject": "Number Theory",
+        "Grade Level": "Machine",
+        "Date and Time": "February 1, 2025 17:30 (GMT+1) \u2192 18:15",
+        "Objectives": "",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "Applied Geometric Calculations",
+        "Subject": "Geometry",
+        "Grade Level": "Apprentice",
+        "Date and Time": "February 1, 2025 18:15 (GMT+1) \u2192 19:00",
+        "Objectives": "",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "Number Theory problems with Binomial Coefficients",
+        "Subject": "Number Theory",
+        "Grade Level": "Shef",
+        "Date and Time": "February 1, 2025 18:15 (GMT+1) \u2192 19:00",
+        "Objectives": "",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "",
+        "Subject": "",
+        "Grade Level": "",
+        "Date and Time": "",
+        "Objectives": "",
+        "Lesson Status": "Not started",
+        "Teaching Method": ""
+    },
+    {
+        "Lesson Title": "Review of Number Theory",
+        "Subject": "Number Theory",
+        "Grade Level": "Beginner",
+        "Date and Time": "February 2, 2025 15:00 (GMT+1) \u2192 15:45",
+        "Objectives": "",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "Review of Geometry",
+        "Subject": "Geometry",
+        "Grade Level": "Machine",
+        "Date and Time": "February 2, 2025 15:00 (GMT+1) \u2192 15:45",
+        "Objectives": "",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "Review of Number Theory",
+        "Subject": "Number Theory",
+        "Grade Level": "Apprentice",
+        "Date and Time": "February 2, 2025 15:45 (GMT+1) \u2192 16:30",
+        "Objectives": "",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "Review of Geometry",
+        "Subject": "Geometry",
+        "Grade Level": "Shef",
+        "Date and Time": "February 2, 2025 15:45 (GMT+1) \u2192 16:30",
+        "Objectives": "",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "Group Work",
+        "Subject": "Geometry, Number Theory",
+        "Grade Level": "Beginner",
+        "Date and Time": "February 2, 2025 15:45 (GMT+1) \u2192 17:30",
+        "Objectives": "Students will work together on problems that were presented in the lecture in groups",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Groupwork"
+    },
+    {
+        "Lesson Title": "Group Work",
+        "Subject": "Geometry, Number Theory",
+        "Grade Level": "Machine",
+        "Date and Time": "February 2, 2025 15:45 (GMT+1) \u2192 17:30",
+        "Objectives": "Students will work together on problems that were presented in the lecture in groups",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Groupwork"
+    },
+    {
+        "Lesson Title": "Group Work",
+        "Subject": "Geometry, Number Theory",
+        "Grade Level": "Apprentice",
+        "Date and Time": "February 2, 2025 16:30 (GMT+1) \u2192 18:15",
+        "Objectives": "Students will work together on problems that were presented in the lecture in groups",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Groupwork"
+    },
+    {
+        "Lesson Title": "Group Work",
+        "Subject": "Geometry, Number Theory",
+        "Grade Level": "Shef",
+        "Date and Time": "February 2, 2025 16:30 (GMT+1) \u2192 18:15",
+        "Objectives": "Students will work together on problems that were presented in the lecture in groups",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Groupwork"
+    },
+    {
+        "Lesson Title": "Review of Geometry ",
+        "Subject": "Geometry",
+        "Grade Level": "Beginner",
+        "Date and Time": "February 2, 2025 17:30 (GMT+1) \u2192 18:15",
+        "Objectives": "",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "Review of Number Theory",
+        "Subject": "Number Theory",
+        "Grade Level": "Machine",
+        "Date and Time": "February 2, 2025 17:30 (GMT+1) \u2192 18:15",
+        "Objectives": "",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "Review of Geometry",
+        "Subject": "Geometry",
+        "Grade Level": "Apprentice",
+        "Date and Time": "February 2, 2025 18:15 (GMT+1) \u2192 19:00",
+        "Objectives": "",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "Review of Number Theory",
+        "Subject": "Number Theory",
+        "Grade Level": "Shef",
+        "Date and Time": "February 2, 2025 18:15 (GMT+1) \u2192 19:00",
+        "Objectives": "",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "",
+        "Subject": "",
+        "Grade Level": "",
+        "Date and Time": "",
+        "Objectives": "",
+        "Lesson Status": "Not started",
+        "Teaching Method": ""
+    },
+    {
+        "Lesson Title": "Combinatorics Games",
+        "Subject": "Combinatorics",
+        "Grade Level": "Beginner",
+        "Date and Time": "February 7, 2025 15:00 (GMT+1) \u2192 15:45",
+        "Objectives": "",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "Polynomials",
+        "Subject": "Algebra",
+        "Grade Level": "Machine",
+        "Date and Time": "February 7, 2025 15:00 (GMT+1) \u2192 15:45",
+        "Objectives": "",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "Invariance",
+        "Subject": "Combinatorics",
+        "Grade Level": "Apprentice",
+        "Date and Time": "February 7, 2025 15:45 (GMT+1) \u2192 16:30",
+        "Objectives": "",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "Polynomials",
+        "Subject": "Algebra",
+        "Grade Level": "Shef",
+        "Date and Time": "February 7, 2025 15:45 (GMT+1) \u2192 16:30",
+        "Objectives": "",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "Group Work",
+        "Subject": "Combinatorics",
+        "Grade Level": "Beginner",
+        "Date and Time": "February 7, 2025 15:45 (GMT+1) \u2192 17:30",
+        "Objectives": "Students will work together on problems that were presented in the lecture in groups",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Groupwork"
+    },
+    {
+        "Lesson Title": "Group Work",
+        "Subject": "Algebra",
+        "Grade Level": "Machine",
+        "Date and Time": "February 7, 2025 15:45 (GMT+1) \u2192 17:30",
+        "Objectives": "Students will work together on problems that were presented in the lecture in groups",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Groupwork"
+    },
+    {
+        "Lesson Title": "Group Work",
+        "Subject": "Combinatorics",
+        "Grade Level": "Apprentice",
+        "Date and Time": "February 7, 2025 16:30 (GMT+1) \u2192 18:15",
+        "Objectives": "Students will work together on problems that were presented in the lecture in groups",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Groupwork"
+    },
+    {
+        "Lesson Title": "Group Work",
+        "Subject": "Algebra",
+        "Grade Level": "Shef",
+        "Date and Time": "February 7, 2025 16:30 (GMT+1) \u2192 18:15",
+        "Objectives": "Students will work together on problems that were presented in the lecture in groups",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Groupwork"
+    },
+    {
+        "Lesson Title": "Pigeonhole Principle",
+        "Subject": "Combinatorics",
+        "Grade Level": "Beginner",
+        "Date and Time": "February 7, 2025 17:30 (GMT+1) \u2192 18:15",
+        "Objectives": "",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "Functional Equations",
+        "Subject": "Algebra",
+        "Grade Level": "Machine",
+        "Date and Time": "February 7, 2025 17:30 (GMT+1) \u2192 18:15",
+        "Objectives": "",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "Extremal Principle",
+        "Subject": "Combinatorics",
+        "Grade Level": "Apprentice",
+        "Date and Time": "February 7, 2025 18:15 (GMT+1) \u2192 19:00",
+        "Objectives": "",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "Advanced Inequalities",
+        "Subject": "Algebra",
+        "Grade Level": "Shef",
+        "Date and Time": "February 7, 2025 18:15 (GMT+1) \u2192 19:00",
+        "Objectives": "Students will understand and apply Newton's three laws of motion.",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "",
+        "Subject": "",
+        "Grade Level": "",
+        "Date and Time": "",
+        "Objectives": "",
+        "Lesson Status": "Not started",
+        "Teaching Method": ""
+    },
+    {
+        "Lesson Title": "Gauss Sum Trick",
+        "Subject": "Algebra",
+        "Grade Level": "Beginner",
+        "Date and Time": "February 8, 2025 15:00 (GMT+1) \u2192 15:45",
+        "Objectives": "",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "Graph Theory",
+        "Subject": "Combinatorics",
+        "Grade Level": "Machine",
+        "Date and Time": "February 8, 2025 15:00 (GMT+1) \u2192 15:45",
+        "Objectives": "",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "Am-Gm Inequality",
+        "Subject": "Algebra",
+        "Grade Level": "Apprentice",
+        "Date and Time": "February 8, 2025 15:45 (GMT+1) \u2192 16:30",
+        "Objectives": "",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "Graph Theory",
+        "Subject": "Combinatorics",
+        "Grade Level": "Shef",
+        "Date and Time": "February 8, 2025 15:45 (GMT+1) \u2192 16:30",
+        "Objectives": "",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "Group Work",
+        "Subject": "Algebra",
+        "Grade Level": "Beginner",
+        "Date and Time": "February 8, 2025 15:45 (GMT+1) \u2192 17:30",
+        "Objectives": "Students will work together on problems that were presented in the lecture in groups",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Groupwork"
+    },
+    {
+        "Lesson Title": "Group Work",
+        "Subject": "Combinatorics",
+        "Grade Level": "Machine",
+        "Date and Time": "February 8, 2025 15:45 (GMT+1) \u2192 17:30",
+        "Objectives": "Students will work together on problems that were presented in the lecture in groups",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Groupwork"
+    },
+    {
+        "Lesson Title": "Group Work",
+        "Subject": "Algebra",
+        "Grade Level": "Apprentice",
+        "Date and Time": "February 8, 2025 16:30 (GMT+1) \u2192 18:15",
+        "Objectives": "Students will work together on problems that were presented in the lecture in groups",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Groupwork"
+    },
+    {
+        "Lesson Title": "Group Work",
+        "Subject": "Combinatorics",
+        "Grade Level": "Shef",
+        "Date and Time": "February 8, 2025 16:30 (GMT+1) \u2192 18:15",
+        "Objectives": "Students will work together on problems that were presented in the lecture in groups",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Groupwork"
+    },
+    {
+        "Lesson Title": "Algebraic Transformations",
+        "Subject": "Algebra",
+        "Grade Level": "Beginner",
+        "Date and Time": "February 8, 2025 17:30 (GMT+1) \u2192 18:15",
+        "Objectives": "",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "Counting in Two Ways",
+        "Subject": "Combinatorics",
+        "Grade Level": "Machine",
+        "Date and Time": "February 8, 2025 17:30 (GMT+1) \u2192 18:15",
+        "Objectives": "",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "Binomial Coefficients and their Applications",
+        "Subject": "Algebra",
+        "Grade Level": "Apprentice",
+        "Date and Time": "February 8, 2025 18:15 (GMT+1) \u2192 19:00",
+        "Objectives": "",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "Algorithmic Techniques",
+        "Subject": "Combinatorics",
+        "Grade Level": "Shef",
+        "Date and Time": "February 8, 2025 18:15 (GMT+1) \u2192 19:00",
+        "Objectives": "",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "",
+        "Subject": "",
+        "Grade Level": "",
+        "Date and Time": "",
+        "Objectives": "",
+        "Lesson Status": "Not started",
+        "Teaching Method": ""
+    },
+    {
+        "Lesson Title": "Review of Combinatorics",
+        "Subject": "Combinatorics",
+        "Grade Level": "Beginner",
+        "Date and Time": "February 9, 2025 15:00 (GMT+1) \u2192 15:45",
+        "Objectives": "",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "Review of Algebra",
+        "Subject": "Algebra",
+        "Grade Level": "Machine",
+        "Date and Time": "February 9, 2025 15:00 (GMT+1) \u2192 15:45",
+        "Objectives": "",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "Review of Combinatorics",
+        "Subject": "Combinatorics",
+        "Grade Level": "Apprentice",
+        "Date and Time": "February 9, 2025 15:45 (GMT+1) \u2192 16:30",
+        "Objectives": "",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "Review of Algebra",
+        "Subject": "Algebra",
+        "Grade Level": "Shef",
+        "Date and Time": "February 9, 2025 15:45 (GMT+1) \u2192 16:30",
+        "Objectives": "",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "Group Work",
+        "Subject": "Algebra, Combinatorics",
+        "Grade Level": "Beginner",
+        "Date and Time": "February 9, 2025 15:45 (GMT+1) \u2192 17:30",
+        "Objectives": "Students will work together on problems that were presented in the lecture in groups",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Groupwork"
+    },
+    {
+        "Lesson Title": "Group Work",
+        "Subject": "Algebra, Combinatorics",
+        "Grade Level": "Machine",
+        "Date and Time": "February 9, 2025 15:45 (GMT+1) \u2192 17:30",
+        "Objectives": "Students will work together on problems that were presented in the lecture in groups",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Groupwork"
+    },
+    {
+        "Lesson Title": "Group Work",
+        "Subject": "Algebra, Combinatorics",
+        "Grade Level": "Apprentice",
+        "Date and Time": "February 9, 2025 16:30 (GMT+1) \u2192 18:15",
+        "Objectives": "Students will work together on problems that were presented in the lecture in groups",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Groupwork"
+    },
+    {
+        "Lesson Title": "Group Work",
+        "Subject": "Algebra, Combinatorics",
+        "Grade Level": "Shef",
+        "Date and Time": "February 9, 2025 16:30 (GMT+1) \u2192 18:15",
+        "Objectives": "Students will work together on problems that were presented in the lecture in groups",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Groupwork"
+    },
+    {
+        "Lesson Title": "Review of Algebra",
+        "Subject": "Algebra",
+        "Grade Level": "Beginner",
+        "Date and Time": "February 9, 2025 17:30 (GMT+1) \u2192 18:15",
+        "Objectives": "",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "Review of Combinatorics",
+        "Subject": "Combinatorics",
+        "Grade Level": "Machine",
+        "Date and Time": "February 9, 2025 17:30 (GMT+1) \u2192 18:15",
+        "Objectives": "",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "Review of Algebra",
+        "Subject": "Algebra",
+        "Grade Level": "Apprentice",
+        "Date and Time": "February 9, 2025 18:15 (GMT+1) \u2192 19:00",
+        "Objectives": "",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "Review of Combinatorics",
+        "Subject": "Combinatorics",
+        "Grade Level": "Shef",
+        "Date and Time": "February 9, 2025 18:15 (GMT+1) \u2192 19:00",
+        "Objectives": "",
+        "Lesson Status": "Not started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "",
+        "Subject": "",
+        "Grade Level": "",
+        "Date and Time": "",
+        "Objectives": "",
+        "Lesson Status": "Not started",
+        "Teaching Method": ""
+    }
+]
