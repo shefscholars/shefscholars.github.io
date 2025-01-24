@@ -2,7 +2,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <link rel="stylesheet" type="text/css" href="css/main.css">
+    <link rel="stylesheet" type="text/css" href="css/new_main.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
+
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -18,405 +20,323 @@
     <title>Shef's Scholars</title>
 </head>
 <body>
-    <header>
-        <h1>
-            Shef's Scholars
-        </h1>
-    </header>
-    <main>
-        <h2>
-            Interested in Math Competitions?
-        </h2>
-        <h2>
-            Want to get to the International Math Olympiad?
-        </h2>
-        <div class="row-block">
-            <div class="row">
-                <div class="video-side-text" style="margin: auto;">
-                    <h3> Get mentored by a former math competitor!</h3>
-                    <p>
-                        Connect with a mentor who has experience in math competitions that can help you get ahead and meet motivated peers
-                    </p>
-                </div>
-                <div class="youtube-video-container" style="display: none;">
-                    <iframe height="350" width="600"
-                        src="https://www.youtube.com/embed/dSDf_KACVgs">
-                    </iframe>
-                </div>
-            </div>
-        </div>
-        <h2>
-            Add your name to the waitlist 
-        </h2>
-        <div class="call-to-action">
-
-            <a href="https://forms.gle/VUHhxberLBgMGVTZ6">
-
+    <div class="layout-container">
         
-                <button class="apply-button" >
-                    &#9200 Add Your Name &#9200
-                    
-                </button>
-            </a>    
-            <div id="demo">
-                
-                <div id = "timer">
-                    <div class="time-box">
-                        <div id="days-remaining">0</div>
-                        <div class="time-type">days</div>
+        <header class="header">
+            <a class="logo" href="#">
+            <div class="brain-icon"></div>
+            <span class="title">Shef Scholars</span>
+            </a>
+            <nav class="nav">
+            <a class="nav-link" href="#features">Features</a>
+            <a class="nav-link" href="#tracks">Schedule</a>
+            <a class="nav-link" href="#testimonials">Testimonials</a>
+            </nav>
+        </header>
+
+        <main class="main-content">
+            <section class="hero-section">
+              <div class="content-container">
+                <div class="hero-grid">
+                  <div class="hero-left">
+                    <div class="hero-info">
+                      <div class="badge">Shef Scholars produced 3 IMO contestants</div>
+                      <h1 class="hero-title">Join the first Shef Scholars Winter Math Camp</h1>
+                      <p class="hero-description">
+                        Learn how to <em>think</em> when solving math problems. Attend live lectures held by 
+                        former competitors, do problem sets, learn problem solving techniques, and meet mathlethes from around the world.
+                      </p>
                     </div>
-                    <div class="time-box">
-                        <div id="hours-remaining">0</div>
-                        <div class="time-type">hours</div>
-                    </div>
-                    <div class="time-box">
-                        <div id="minutes-remaining">00</div>
-                        <div class="time-type">minutes</div>
-                    </div>
-                    <div class="time-box">
-                        <div id="seconds-remaining">0</div>
-                        <div class="time-type">seconds</div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="grey-row-block some-space">
-            <h2>
-                My Story 🤓💯📚
-            </h2>
-            <div class="content">
-                <section>
-                    <p>
-                        At my first math competition in 2011 I was able to only answer the following question:
-                    </p>
-                    <quote >
-                        "How many great-grandfathers do all your great-grandfathers have in total?:
-                    </quote>
-                    <p>
-                        Needless to say I didn't get past that first round.
-                    </p>    
-                </section>
-                <section>
-                    <p>
-                        A year later I came across a notebook from a former math competitor from which 
-                        I learned how to mimick proof writing. 
-                        That notebook got me past that first round after which I met the person they called "Sef"(Shef).
-                        With his guidance I passed all the way to the state competition where I fell short.
-                    </p>
-                    <p>
-                        In 2013 I passed the state junior TST and got my first bronze medal at the Junior Balkan Math Olympiad in Turkey.
-                    </p>
-                    <p>
-                        Two years later I passed to the International Math Olympiad and got my first IMO bronze medal.
-                    </p>
-                    <p>
-                        Two years later I went to my final International Math Olympiad in the beautiful Rio de Janeiro,
-                        winning my third bronze medal. It was here that I realized how beautiful 
-                        this opportunity to do math competitions is. 
-                    </p>
-                    <p>
-                        My bronze medal got me into an Ivy League school which I started in September 2017.
-                    </p>
-                    <p>
-                        In September 2020 I decided to start Shefs of Problem Solving to, among other things, give you a roadmap from 0 to the IMO.
-                    </p>
-                    <p>
-                        Now I decided to take it a step further by introducing Shef's Scholars.
-                    </p>
-                </section>
-
-            </div>
-            <div class="sub-video-container">
-                <iframe height="800" width="800"
-                src="https://www.youtube.com/embed/Tpo8GxmxUc0">
-           
-                </iframe>
-            </div>
-            <h2>
-                ⚗️The Secret to an IMO medal
-            </h2>
-            <div class="content">
-                <p>Over my time as a math competitor, I've learned a lot about what it 
-                    takes to get to and perform well in math competitions. </p>
-                <p>I've talked to a lot of competitors about their thinking, 
-                    trying to see if there is an algorithm for solving problems 
-                    they have that I don't or some secret to better performance.</p>
-                <p>As far as I can tell, it's implausible to try to come up with
-                    a descriptive universal algorithm for solving general competitive
-                    math problems.
-                </p>
-                <p>But there are certain heuristics or rules of thumb to follow when 
-                    solving problems like:
-                    <ul class="smaller-font" style="line-height: .8em;">
-                        <li>exploring the problem</li>
-                        <li>playing around with
-                            small cases</li>
-                        <li>looking for patterns in small cases</li>
-                        <li>guessing the 
-                            solution or construction</li>
-                        <li>starting simple before moving onto complexity</li>
-                        <li>being flexible with your approaches</li>
-                    </ul>
-                    
-                </p>
-                <p>and many more</p>
-                <p>All of these heuristics take a ton of time and practice to 
-                    truly master.
-                </p>
-                <p>You can definitely do all the practice by yourself and get yourself to
-                    the IMO and potentially even win a medal.
-                </p>
-                <p>However, a mentor who has gone down the same path as you can greatly help you with the selection of practice problems.
-<!--                     At the same time, having a mentor who has gone through what you're going
-                    through can help shorten the search for problems that you should solve
-                    next. -->
-                </p>
-                <p>On top of that, having a community of competitors from around the world
-                    can motivate you to get better.
-                </p>
-                <p>You can learn a lot about your own problem solving by talking to other
-                    problem solvers about their approaches to problems.
-                </p>
-                <p>Before the Internet, you would've needed to be very lucky to be born in a 
-                    place where there are a lot of math competitors around.
-                </p>
-                <p>Today, and hopefully with Shef’s Scholars, that need no longer be a requirement
-                    for success.
-                </p>
-            </div>
-            
-        </div>
-        <div class="white-row-block">
-            <h2>
-                What can you expect to get out of Shef's Scholars 📚
-            </h2>
-            <ul>
-                <li>Meet other ambitious peers who like competitive mathematics</li>
-                <li>Have at least <bold>4</bold>X<bold>20</bold> minutes 1-on-1 sessions 
-                    with a former math competitor where we talk about:
-                    <ul>
-                        <li>your goals</li>
-                        <li>your progress</li>
-                        <li>problem solving strategies</li>
-                        <li>certain techniques or problems</li>
-                    </ul>
-                </li>
-                <li>Take part in practice exams to prepare you for math competitions</li>
-                <li>Personalized problem suggestions</li>
-                <li>Take part in group lectures and problem solving sessions</li>
-            </ul>
-            
-
-        </div>
-
-        <div class="grey-row-block some-space smaller-padding">
-            <div class="row ">
-               
-                    <h2 id="why-do-this"> &#10068 Why am I doing this &#10068 </h2>
-                    <p>
-                        A natural question to ask yourself when something seems too good to be true is "What's the catch?"
-                    </p>
-                    <p>
-                        Well the first catch is that there is an actual application I will review that may end up being competitive so there are no guarantees.
-                    </p>
-                    <p>
-                        Though if I had infinite time, I'd probably choose everyone who is motivated enough and there are a bunch of reasons for that.
-                    </p>
-                    <p>
-                        Here is what I'm getting out of giving you my time for free:
-                        <ul>
-                            <li>I'm advertising my Youtube channel and helping it grow</li>
-                            <li>I'm building up credibility in future instances of this program by helping some of you achieve some levels of success</li>
-                            <li>I get to work with young motivated individuals who could become future collaborators in research or industry work</li>
-                            <li>I am able to test whether or not this idea works at all and determine if it's a good use of my time going forwards</li>
-                            <li>If this does work out, I can fit it in my schedule, and it brings enough traction to the Youtube channel I can build a new source of income</li>
-                            <li>I might be able to host exclusive content on this platform and charge a fee for that in the future</li>
-                            <li>I want to build something and I can get people interested by making it free in the first edition</li>
-                            <li>Making it free NOW could generate scarcity which could drive interest </li>
-                            <li>I generally like teaching and the dynamic nature of working on someone's skill in this</li>
-                            <li>I might meet people who are interested in being mentors in future iterations of this</li>
-                        </ul>
-                    </p>
-
-                    <p>
-                        Now that I've convinced you this is a legit offer, my question is:
-                    </p>
-                    <p>
-                        <quote>
-                            WHAT ARE YOU WAITING FOR?
-                        </quote>
-                    </p>
-                    
-                
-               
-            </div>
-            <div class="call-to-action">
-
-                <a href="https://forms.gle/VUHhxberLBgMGVTZ6">
-    
-            
-                    <button class="apply-button" >
-                        &#9200 Add your name to the list &#9200
+                    <div class="hero-buttons">
                         
-                    </button>
-                </a>    
-                <div id="demo-2">
+                      <button class="btn" onclick="window.open('https://forms.gle/BkMETmhiHcPYCv716', '_blank')" >Apply Now </button>
+                      <button class="btn btn-outline" onclick="scrollToSection()">Learn More</button>
+                    </div>
+                  </div>
+                  <div class="hero-right">
+                    <img
+                      alt="Math students collaborating"
+                      class="hero-image"
+                      src="/images/Image-of-salko-pointing-imo2022-png.png"
+                      height="550"
+                      width="550"
+                    />
+                  </div>
+                </div>
+              </div>
+            </section>
+
+            <section id="tracks" class="tracks-section">
+                <div class="content-container">
+                  <h2 class="section-title">Choose Your Track</h2>
+                  <div class="tracks-grid">
                     
-                    <div id = "timer2">
-                        <div class="time-box">
-                            <div id="days-remaining2">0</div>
-                            <div class="time-type">days</div>
+                    <!-- Tracks will be dynamically rendered here using JavaScript -->
+                  </div>
+                </div>
+            </section>
+
+            <section id="pricing" class="pricing-section">
+                <div class="content-container">
+                  <h2 class="section-title">Choose Your Experience</h2>
+                  <div class="pricing-grid">
+                    <!-- Regular Plan -->
+                    <div class="pricing-card">
+                      <div class="pricing-content">
+                        <h3 class="pricing-title">Regular</h3>
+                        <div class="pricing-price">
+                          <span class="original-price">$360</span>
+                          <span class="discounted-price">$80</span>
                         </div>
-                        <div class="time-box">
-                            <div id="hours-remaining2">0</div>
-                            <div class="time-type">hours</div>
+                        <p class="apply-by">Apply by 01/27/2025 for 75% off</p>
+                        <ul class="pricing-features">
+                          <li class="pricing-feature">
+                            <span class="check-icon">✔</span> Access to one track of your choice
+                          </li>
+                          <li class="pricing-feature">
+                            <span class="check-icon">✔</span> 2 tests that must be completed before the end of the camp
+                          </li>
+                          <li class="pricing-feature">
+                            <span class="check-icon">✔</span> Access to all 12 live lectures and lecture recordings
+                          </li>
+                          <li class="pricing-feature">
+                            <span class="check-icon">✔</span> Access to 8 Problem sets
+                          </li>
+                          <li class="pricing-feature">
+                            <span class="check-icon">✔</span> Optional 15-minute session for parents to discuss their child's math journey before program completion
+                          </li>
+
+                        </ul>
+                        <button class="pricing-button" onclick="window.open('https://forms.gle/endQ3yoqX6jovrw89', '_blank')">Select Regular</button>
+                      </div>
+                    </div>
+              
+                    <!-- Premium Plan -->
+                    <div class="pricing-card premium-card">
+                      <div class="pricing-content">
+                        <div class="best-value-tag">BEST VALUE</div>
+                        <h3 class="pricing-title">Premium</h3>
+                        <div class="pricing-price">
+                          <span class="original-price">$2000</span>
+                          <span class="discounted-price">$500</span>
                         </div>
-                        <div class="time-box">
-                            <div id="minutes-remaining2">00</div>
-                            <div class="time-type">minutes</div>
+                        <p class="apply-by">Apply by 01/27/2025 for 75% off</p>
+                        <ul class="pricing-features">
+                          <li class="pricing-feature bold-feature">
+                            <span class="check-icon highlight">✔</span> Access to all the tracks and their recordings
+                          </li>
+                          <li class="pricing-feature">
+                            <span class="check-icon">✔</span> 2 tests that must be completed before the end of the camp
+                          </li>
+                          <li class="pricing-feature bold-feature">
+                            <span class="check-icon highlight">✔</span> Access to ALL 48 live lectures and lecture recordings
+                          </li>
+                          <li class="pricing-feature bold-feature">
+                            <span class="check-icon highlight">✔</span> Access to ALL 24 problem sets
+                          </li>
+                          <li class="pricing-feature">
+                            <span class="check-icon">✔</span> Optional 15-minute session for parents to discuss their child's math journey before program completion
+                          </li>
+                          <li class="pricing-feature bold-feature">
+                            <span class="check-icon highlight">✔</span> 4 personalized 30-minute sessions with the Shef
+                          </li>
+                          <li class="pricing-feature bold-feature">
+                            <span class="check-icon highlight">✔</span> 4 customized problem sets (valid for 6 months)
+                          </li>
+                        </ul>
+                        <button class="pricing-button premium-button" onclick="window.open('https://forms.gle/pUg4pZTeUZosbpfr8', '_blank')">Select Premium</button>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </section>
+              
+              
+
+
+
+
+            <section id="features" class="features-section">
+                <div class="content-container">
+                  <h2 class="section-title">Why Choose Shef Scholars?</h2>
+                  <div class="features-grid">
+                    <div class="feature-card">
+                      <div class="feature-content">
+                        <div class="icon trophy-icon"></div>
+                        <h3 class="feature-title">Proven Track Record</h3>
+                        <p class="feature-description">
+                            In just two test iterations we helped 3 students get to the IMO and win 2 Honorable Mentions and a Silver Medal.
+                        </p>
+                      </div>
+                    </div>
+                    <div class="feature-card">
+                      <div class="feature-content">
+                        <div class="icon users-icon"></div>
+                        <h3 class="feature-title">Expert Instructors</h3>
+                        <p class="feature-description">
+                          Learn from the <a href="https://www.youtube.com/@ShefsofProblemSolving">Shef</a> himself and other former math competitors.
+                        </p>
+                      </div>
+                    </div>
+                    <div class="feature-card">
+                      <div class="feature-content">
+                        <div class="icon calendar-icon"></div>
+                        <h3 class="feature-title">Intensive Program</h3>
+                        <p class="feature-description">
+                          Immerse yourself in 6 days of focused, high-level math training.
+                        </p>
+                      </div>
+                    </div>
+                    <div class="feature-card">
+                        <div class="feature-content">
+                          <div class="icon globe-icon"></div>
+                          <h3 class="feature-title">Join a Thriving Community</h3>
+                          <p class="feature-description">
+                            Connect with like-minded peers who share your passion for competitive mathematics. Collaborate, solve problems together, and build lifelong friendships.
+                          </p>
                         </div>
-                        <div class="time-box">
-                            <div id="seconds-remaining2">0</div>
-                            <div class="time-type">seconds</div>
+                      </div>
+                      <div class="feature-card">
+                        <div class="feature-content">
+                          <div class="icon money-icon"></div>
+                          <h3 class="feature-title">Massive Value for $</h3>
+                          <p class="feature-description">
+                            Given this is our first math camp, we are offering a massively discounted price 
+                          </p>
+                        </div>
+                      </div>
+                      <div class="feature-card">
+                        <div class="feature-content">
+                          <div class="icon interactive-icon"></div>
+                          <h3 class="feature-title">Live Interactive Sessions</h3>
+                          <p class="feature-description">
+                            Engage in real-time problem-solving sessions with peers and instructors, boosting your skills in a collaborative environment.
+                          </p>
+                        </div>
+                      </div>
+                  </div>
+                  
+                </div>
+                
+              </section>
+
+              <section id="testimonials" class="testimonials-section">
+                <div class="content-container">
+                  <h2 class="section-title">What Our Students Say</h2>
+                  <div class="testimonials-grid">
+                    <div class="testimonial-card">
+                      <div class="testimonial-content">
+                        <p class="testimonial-quote">Hello, I am from Azerbaijan and my name is Ismayil.
+                            I felt like I learned a lot of tricks and tips in combinatorics which encouraged me to do some imo sl problems 
+                            I think the way of taking lessons from IMO champion is just different from others because you get lessons by deeply experienced person.
+                            We socialized by each other we learned by mistakes in our solutions which is different than getting lesson and explanetion by someone else (the group consists only imo level students which is good for improving)
+                            I got selected for summer camp for imo (which is due to my imo score top 20)
+                            If you want to stduy individual and got help by experienced olympians it would be great
+                            and taking lectures is the best way to study.
+                            I wish i take program again :)"</p>
+                        <p class="testimonial-author">- Ismayil Ismayilzade, Azerbaijan</p>
+                      </div>
+                    </div>
+                    <div class="testimonial-card">
+                      <div class="testimonial-content">
+                        <p class="testimonial-quote">"My name is Arleth, and I’m from El Salvador. Thanks to Shef Scholars, I’ve learned new principles and techniques for tackling Math Olympiad problems. This program stands out from others I’ve taken because of its personalized approach. It has also given me the chance to connect with people who are on the same path of competing in Math Olympiads. Thanks to Shef Scholars, I qualified for the Iberoamerican Math Olympiad and obtained an Honorific mention on APMO 2024. I highly recommend this program to anyone interested in math competitions and looking to be part of a cool community."</p>
+                        <p class="testimonial-author">- Arleth Karolina, Iberoamerican Math Olympiad competitor</p>
+                      </div>
+                    </div>
+                     <!-- Testimonial with Video -->
+                    <div class="testimonial-card">
+                        <div class="testimonial-content">
+                        <div class="testimonial-video">
+                            <iframe
+                            src="https://www.youtube.com/embed/X87b58ianOg?si=fYXUByBdpWdgxO4o"
+                            title="Testimonial Video"
+                            frameborder="0"
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                            allowfullscreen
+                            ></iframe>
+                        </div>
+                        <p class="testimonial-quote">Mingdao talks about how the program helped him prepare after failing the Team Selection Test
+                             and how helpful the program was in helping him prepare in two weeks.</p>
+                        <p class="testimonial-author">- Mingdao Zou Zhong, <a href="https://www.imo-official.org/participant_r.aspx?id=34057">International Mathematical Olympiad Honourable Mention </a>  </p>
                         </div>
                     </div>
+                    <!-- Testimonial with Video -->
+                    <div class="testimonial-card">
+                        <div class="testimonial-content">
+                        <div class="testimonial-video">
+                            <iframe
+                            src="https://www.youtube.com/embed/JAE8-zNl1gk?si=8pB2ivzoxa6GYdE7"
+                            title="Testimonial Video"
+                            frameborder="0"
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                            allowfullscreen
+                            ></iframe>
+                        </div>
+                        <p class="testimonial-quote">Besnik talks in depth about the program and why it was helpful to him</p>
+                        <p class="testimonial-author">- Besnik Haziri, 1 point away from IMO </p>
+                        </div>
+                    </div>
+                    <div class="testimonial-card">
+                      <div class="testimonial-content">
+                        <p class="testimonial-quote">"Shef Scholars is a wonderful initiative. I joined in 2022 with just the hope of getting some ideas as to how I should approach math problems. Shef gave a lot of problem sets and also organized meetings to correct these problems in group, which definitely gave useful insights as to how one should tackle a math olympiad problem. Furthermore he organizes some one-on-one meetings in which I had the choice of going over any math question I wanted. The real perk of Shef Scholars is in my opinion just the way Salko explain his mathematics. He's a fantastic teacher and will give you just the right amount of help and insights to solve problems. What I improved the most, other than just overall better problem-solving skills, is endurance, i.e. wanting to solve the problem, rather than solving it as quickly as possible. I definitely recommend this program to any student who aspires to become a better problem-solver."</p>
+                        <p class="testimonial-author">- Luka Sebbag, <a href="https://www.imo-official.org/participant_r.aspx?id=33686">International Mathematical Olympiad Honorable Mention </a></p>
+                      </div>
+                    </div>
+                  </div>
                 </div>
-            </div>    
-            
-        </div>
+              </section>
+              <section class="cta-section">
+                <div class="content-container">
+                  <div class="cta-content">
+                    <div class="cta-text">
+                      <h2 class="cta-title">Ready to Join the First Shef Scholars Winter Camp?</h2>
+                      <p class="cta-description">
+                        Don't miss this opportunity to accelerate your math skills and join a community of exceptional young
+                        mathematicians.
+                      </p>
+                    </div>
+                    <button class="cta-button" onclick="window.open('https://forms.gle/BkMETmhiHcPYCv716', '_blank')">
+                      Apply Now
+                      <span class="chevron-icon">→</span>
+                    </button>
+                  </div>
+                </div>
+              </section>
+              
+              
+          </main>
+          <footer>
 
-
-
-
-        <h1>
-            Application Timeline
-        </h1>
-        <h3>
-            The application is going to consist of:
-
-        </h3>
-        <ul>
-            <li>
-                a google form where I get to know what you're all about, your story (bits and pieces of it)
-            </li>
-            <li>
-                a problem set to assess your level of knowledge
-                
-            </li>
-            <li>
-                a test to see how well you perform under exam conditions
-            </li>
-            <li>
-                if all of these are fine, an interview where we get to do some problems and see whether we're a good fit
-            </li>
-        </ul>
-        <h4>
-            The most important thing to me in your application is <u><em>honesty</em></u>. 
-        </h4>
-            <h4>
-                This means if you cheat on the problem set and exam and 
-            </h4>
-            <h4>
-                I find out (maybe in the interview) I will automatically decline your application. 
-            </h4>
-
-            <h4>
-                Furthermore I may decline every future application automatically.
-
-            </h4>
-            
-           
-
-        <div class="timeline">
-            <div class="timeline-container timeline-left">
-              <div class="timeline-content">
-                <h2>March 2nd 2024</h2>
-                <p>Applications <a href="https://forms.gle/3sbFPx541wxMQMvG7" target="_blank">Open</a></p>
+          </footer>
+          <div id="scheduleModal" class="modal">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h2 id="modal-title"></h2>
+                <p id="modal-description">6-Day Intensive Program</p>
+                <button class="close-btn" onclick="closeModal()">×</button>
+              </div>
+              <div class="modal-body">
+                <!-- Dynamic schedule content will be rendered here -->
+                <div id="schedule-content"></div>
               </div>
             </div>
-            <div class="timeline-container timeline-right">
-              <div class="timeline-content">
-                <h2>March 2nd 2024</h2>
-                <p>Problem Set #1 <a href="Practice_problems.pdf" target="_blank">out</a></p>
-              </div>
-            </div>
-
-            <div class="timeline-container timeline-left">
-                <div class="timeline-content">
-                  <h2>March 2nd 2024</h2>
-                  <p>Test #1 <a href="TEST_1_for_Shef_Scholars_V002.pdf" target="_blank">out</a></p>
-                </div>
-              </div>
-              <div class="timeline-container timeline-right">
-                <div class="timeline-content">
-                    <h2>March 11th 2024</h2>
-                  <p>Applications Due</p>
-                  <p>Problem Set #1 due</p>
-                  <p>Test #1 Due</p>
-
-                </div>
-              </div>
-
-
-              <div class="timeline-container timeline-left">
-                <div class="timeline-content">
-                  <h2>March 12th 2024</h2>
-                  <p>Interviews start</p>
-                </div>
-              </div>
-              <div class="timeline-container timeline-right">
-                <div class="timeline-content">
-                    <h2>March 17th 2024</h2>
-                  <p>Applicants informed of decision</p>
-                </div>
-              </div>
-              <div class="timeline-container timeline-left">
-                <div class="timeline-content">
-                  <h2>May 20th 2024</h2>
-                  <p>End of second batch of Shef's Scholars</p>
-                </div>
-              </div>
           </div>
           
 
 
-          
-    <footer>
-
-        <div class="my-quotes">
-            <div class="quote">
-                
-                <a href="terms.html">Terms and Condition</a>
-            </div>
-
-            <div class="quote">
-                <a href="privacy_policy.html">Privacy Policy </a>
-            </div>
-        </div>
-
-        <div class="footer-info">
-            <div class="social-media-links">
-                <a href="https://www.github.com/shefscholars" target="_blank">
-                    <img  src="/images/icons/github_icon.png" class="github-image" alt="Github logo icon">
-                </a>
-                <a href="https://www.linkedin.com/in/thesalko "  target="_blank">
-                    <img  src="/images/icons/linkedin_icon.png" class="linkedin-image" alt="Linkedin logo icon">
-                </a>
-                <a href="mailto:shefscholars@gmail.com">
-                    <img  src="/images/icons/gmail_icon.png" class="gmail-image" alt="Gmail logo icon">
-                </a>
-
-
-            </div>
-            <div class="personal-sign-off">
-                Shef's Scholars 2024
-            </div>
-        </div>
-
-
-    </footer>
-    </main>
+    </div>
+    <script src="scripts/modal_script.js"></script>
+    <script src="scripts/tracks_script.js"></script>
+    <script>
+        function scrollToSection() {
+        const tracksSection = document.querySelector("#tracks");
+        if (tracksSection) {
+            tracksSection.scrollIntoView({ behavior: "smooth" });
+        }
+        }
+    </script>
     <script>  
+        return 0;
         var a;  
         a = setInterval(fun, 1000);  
         let countDownDate = new Date("March 11, 2024 23:59:59 UTC -8").getTime();
