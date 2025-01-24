@@ -419,8 +419,10 @@
     <script>  
         var a;  
         a = setInterval(fun, 1000);  
+
         let countDownDate = new Date("March 18, 2024 23:59:59 UTC -8").getTime();
         function fun(){
+
             // Get today's date and time
             var now = new Date().getTime();
 
@@ -450,7 +452,6 @@
             if (distance < 0) {
             //clearInterval(x);
             document.getElementById("demo-2").innerHTML = "<div style='height:20px'> </div>";
-
             
             document.getElementById("demo").innerHTML = "<div style='height:20px'> </div>";
             }
