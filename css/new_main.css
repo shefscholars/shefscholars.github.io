@@ -73,28 +73,28 @@ body {
   /* Hero section styling */
   .hero-section {
     width: 100%;
-    padding-top: 48px; /* Equivalent to py-12 */
-    padding-bottom: 48px;
+    padding-top: 2rem; /* Equivalent to py-12 */
+    padding-bottom: rem;
   }
   
   @media (min-width: 768px) { /* md:py-24 */
     .hero-section {
-      padding-top: 96px;
-      padding-bottom: 96px;
+      padding-top: 4rem;
+      padding-bottom: 4rem;
     }
   }
   
   @media (min-width: 1024px) { /* lg:py-32 */
     .hero-section {
-      padding-top: 128px;
-      padding-bottom: 128px;
+      padding-top: 6rem;
+      padding-bottom: 6rem;
     }
   }
   
   @media (min-width: 1280px) { /* xl:py-48 */
     .hero-section {
-      padding-top: 192px;
-      padding-bottom: 192px;
+      padding-top: 8rem;
+      padding-bottom: 8rem;
     }
   }
   
@@ -649,9 +649,22 @@ body {
     content: "🏆"; /* Example Trophy Icon */
     font-size: 48px;
   }
+
+  .globe-icon::before {
+    content: "🌐"; /* Example Globe Icon */
+    font-size: 48px;
+  }
   
+    /* Money Icon Styling */
+    .money-icon::before {
+        content: "💰"; /* Dollar bag emoji to represent value for money */
+        font-size: 48px; /* Matches other icons */
+        color: #22c55e; /* Tailwind's green-500 */
+
+    }
+
   .users-icon::before {
-    content: "👥"; /* Example Users Icon */
+    content: "🧑‍🏫"; /* Example Users Icon */
     font-size: 48px;
   }
   
@@ -665,6 +678,22 @@ body {
     content: "🤝"; /* Handshake emoji to represent community */
     font-size: 48px; /* Matches the font size */
   }
+
+
+  .interactive-icon::before {
+    content: "👥"; /* Game controller emoji to represent interactivity */
+    font-size: 48px; /* Matches the font size */
+  }
+
+
+
+
+
+
+
+
+
+  
   
   /* Feature title */
   .feature-title {
@@ -871,4 +900,117 @@ body {
     height: 100%;
     border: none;
     /* border-radius: 8px; */
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  /* Call to Action Section Styling */
+.cta-section {
+    width: 100%;
+    padding: 48px 0; /* Equivalent to py-12 */
+    background-color: #2563eb; /* Tailwind's blue-600 */
+    color: white;
+  }
+  
+  @media (min-width: 768px) { /* md:py-24 */
+    .cta-section {
+      padding: 96px 0;
+    }
+  }
+  
+  @media (min-width: 1024px) { /* lg:py-32 */
+    .cta-section {
+      padding: 128px 0;
+    }
+  }
+  
+  
+.cta-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 16px; /* Equivalent to space-y-4 */
+  }
+  
+  .cta-text {
+    display: flex;
+    flex-direction: column;
+    gap: 8px; /* Equivalent to space-y-2 */
+  }
+  
+  .cta-title {
+    font-size: 1.875rem; /* Equivalent to text-3xl */
+    font-weight: 700; /* Equivalent to font-bold */
+    letter-spacing: -0.05em; /* Equivalent to tracking-tighter */
+  }
+  
+  @media (min-width: 640px) { /* sm:text-4xl */
+    .cta-title {
+      font-size: 2.25rem;
+    }
+  }
+  
+  @media (min-width: 768px) { /* md:text-5xl */
+    .cta-title {
+      font-size: 3rem;
+    }
+  }
+  
+  .cta-description {
+    max-width: 600px;
+    color: #d1e7ff; /* Light blue for text */
+    font-size: 1rem; /* Default text size */
+    line-height: 1.5;
+    margin: 0 auto;
+  }
+  
+  @media (min-width: 768px) { /* md:text-xl */
+    .cta-description {
+      font-size: 1.25rem;
+    }
+  }
+  
+  .cta-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 12px 24px;
+    font-size: 1rem;
+    font-weight: 500;
+    border-radius: 8px;
+    background-color: white;
+    color: #2563eb; /* Tailwind's blue-600 */
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .cta-button:hover {
+    background-color: #eff6ff; /* Tailwind's blue-50 */
+  }
+  
+  .chevron-icon {
+    display: inline-block;
+    font-size: 1.25rem;
+    font-weight: bold;
+    transition: transform 0.3s;
+  }
+  
+  .cta-button:hover .chevron-icon {
+    transform: translateX(4px);
   }

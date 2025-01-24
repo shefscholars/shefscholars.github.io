@@ -27,7 +27,7 @@ const tracks = [
           Master advanced concepts in ${track.name.toLowerCase()}.
         </p>
         <div class="spots-info">Spots left: ${spots[track.name]}</div>
-        <button class="track-btn primary" ${
+        <button class="track-btn primary" onclick="window.open('https://forms.gle/BkMETmhiHcPYCv716', '_blank')" ${
           spots[track.name] === 0 ? "disabled" : ""
         }>
           Reserve Spot
