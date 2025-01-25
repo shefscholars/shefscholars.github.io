@@ -84,6 +84,17 @@ const schedule = [
                     itemDescription.className = "description";
                     itemElement.appendChild(itemDescription);
                   }
+
+                // Add PDF link if available
+                if (lesson["PDF Link"]) {
+                  const pdfLink = document.createElement("a");
+                  pdfLink.href = lesson["PDF Link"];
+                  pdfLink.textContent = "Download PDF";
+                  pdfLink.target = "_blank"; // Open in a new tab
+                  pdfLink.className = "pdf-link"; // Style this class as needed
+                  itemElement.appendChild(pdfLink);
+  }
+                
         
                 dayElement.appendChild(itemElement);
             });

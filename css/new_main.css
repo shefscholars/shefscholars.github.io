@@ -252,6 +252,38 @@ body {
     }
   }
 
+/* Countdown timer container */
+.countdown-timers {
+  display: grid;
+  gap: 2rem;
+  margin-top: 2rem;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+}
+
+/* Individual countdown container */
+.countdown {
+  text-align: center;
+  background-color: #f3f4f6; /* Light gray */
+  padding: 1rem;
+  border-radius: 0.5rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Countdown label */
+.label {
+  font-size: 1.25rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+/* Timer text */
+.timer {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #1f2937; /* Dark gray */
+}
+
+
 
 
 
@@ -734,7 +766,7 @@ body {
   
   .modal-content {
     background: white;
-    max-width: 800px;
+    max-width: 50rem;
     max-height: 80vh;
     overflow-y: auto;
     border-radius: 8px;
@@ -754,7 +786,15 @@ body {
   .modal-header h2 {
     font-size: 1.5rem;
     font-weight: bold;
+    margin: 0; /*Removes default margin */
   }
+  .modal-description {
+    font-size: 1rem;
+    font-weight: 500;
+    color: #6b7280; /* Tailwind's gray-500 */
+    margin: 0;
+}
+
   
   .modal-header .close-btn {
     background: none;
@@ -802,6 +842,25 @@ body {
     margin-top: 8px;
     color: #374151; /* Darker gray text */
   }
+
+
+  .pdf-link {
+    display: inline-block;
+    margin-top: 8px;
+    padding: 6px 12px;
+    background-color: #2563eb; /* Blue color */
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    font-size: 0.875rem;
+    font-weight: 500;
+    transition: background-color 0.3s;
+}
+
+.pdf-link:hover {
+    background-color: #1d4ed8; /* Darker blue on hover */
+}
+
   
 
 
@@ -905,11 +964,78 @@ body {
 
 
 
+/* FAQ SECTION STYLING */
 
 
 
+/* FAQ Section Styling */
+.faq-section {
+  width: 100%;
+  padding: 48px 16px; /* py-12 px-4 */
+  background-color: #fff;
+}
+
+@media (min-width: 768px) { /* md:py-24 px-6 */
+  .faq-section {
+    padding: 96px 24px;
+  }
+}
+
+@media (min-width: 1024px) { /* lg:py-32 */
+  .faq-section {
+    padding: 128px 24px;
+  }
+}
 
 
+
+/* Accordion Styling */
+.accordion {
+  width: 100%;
+}
+
+.accordion-item {
+  margin-bottom: 16px;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.accordion-trigger {
+  width: 100%;
+  padding: 16px;
+  text-align: left;
+  background-color: #f9fafb;
+  border: none;
+  font-size: 1rem;
+  font-weight: 500;
+  cursor: pointer;
+  outline: none;
+  transition: background-color 0.2s ease;
+}
+
+
+.accordion-trigger:hover {
+  background-color: #f3f4f6;
+}
+
+/* Accordion Content */
+.accordion-content {
+  max-height: 0; /* Initially hidden */
+  overflow: hidden;
+  padding: 0 16px; /* Space for content when expanded */
+  font-size: 0.875rem;
+  color: #4b5563;
+  background-color: #ffffff;
+  transition: max-height 0.3s ease, padding 0.3s ease;
+}
+
+
+
+/* Expanded state styling */
+.accordion-item.open .accordion-content {
+  padding: 16px; /* Add padding when expanded */
+}
 
 
 
@@ -1014,3 +1140,59 @@ body {
   .cta-button:hover .chevron-icon {
     transform: translateX(4px);
   }
+
+
+
+
+
+
+
+
+  /* FOOTER */
+  /* Footer styling */
+.footer {
+  display: flex;
+  flex-direction: column;
+  gap: 8px; /* Equivalent to gap-2 */
+  align-items: center;
+  padding: 24px 16px; /* py-6 px-4 */
+  width: 100%;
+  border-top: 1px solid #e5e7eb; /* Light gray border */
+  background-color: #fff; /* Optional for contrast */
+}
+
+@media (min-width: 640px) { /* sm:flex-row */
+  .footer {
+    flex-direction: row;
+    justify-content: space-between;
+  }
+}
+
+.footer-text {
+  font-size: 0.75rem; /* text-xs */
+  color: #6b7280; /* Gray-500 */
+  margin: 0; /* Remove any default margins */
+}
+
+.footer-nav {
+  display: flex;
+  gap: 1rem; /* gap-4 */
+  margin-right: 5rem;
+}
+
+@media (min-width: 640px) { /* sm:gap-6 */
+  .footer-nav {
+    gap: 2rem;
+  }
+}
+
+.footer-link {
+  font-size: 0.75rem; /* text-xs */
+  text-decoration: none;
+  color: inherit; /* Inherit text color */
+}
+
+.footer-link:hover {
+  text-decoration: underline;
+  text-underline-offset: 4px; /* underline-offset-4 */
+}
