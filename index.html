@@ -63,6 +63,16 @@
                     />
                   </div>
                 </div>
+                <div class="countdown-timers">
+                  <div class="countdown">
+                    <h3 class="label">Early Bird Discount Ends In:</h3>
+                    <div class="timer" id="discountTimer">Loading...</div>
+                  </div>
+                  <div class="countdown">
+                    <h3 class="label">Application Closes In:</h3>
+                    <div class="timer" id="applicationTimer">Loading...</div>
+                  </div>
+                </div>
               </div>
             </section>
 
@@ -286,6 +296,44 @@
                   </div>
                 </div>
               </section>
+              <section id="faq" class="faq-section">
+                <div class="content-container">
+                  <h2 class="section-title">Frequently Asked Questions</h2>
+                  <div class="accordion">
+                    <div class="accordion-item">
+                      <button class="accordion-trigger" onclick="toggleAccordion(this)">
+                        What is the age range for the Shef Scholars Winter camp?
+                      </button>
+                      <div class="accordion-content">
+                        Shef Scholars is designed for students aged 14-19 who have a
+                        good foundation in mathematics and are looking to develop their skills more.
+                      </div>
+                    </div>
+                    <div class="accordion-item">
+                      <button class="accordion-trigger" onclick="toggleAccordion(this)">
+                        How are students placed into tracks?
+                      </button>
+                      <div class="accordion-content">
+                        Students are placed into tracks based on their preferences. 
+                        We can suggest which track the student will find the most growth in.
+                      </div>
+                    </div>
+                    <div class="accordion-item">
+                      <button class="accordion-trigger" onclick="toggleAccordion(this)">
+                        Is there a limit to the number of students per group?
+                      </button>
+                      <div class="accordion-content">
+                        To help make sure everyone gets the attention they need in the lecture, 
+                        we limit the number of students per group to 15.
+                      </div>
+                    </div>
+
+
+                    
+                  </div>
+                </div>
+              </section>
+              
               <section class="cta-section">
                 <div class="content-container">
                   <div class="cta-content">
@@ -307,14 +355,22 @@
               
               
           </main>
-          <footer>
-
+          <footer class="footer">
+            <p class="footer-text">© 2025 Shef Scholars. All rights reserved.</p>
+            <nav class="footer-nav">
+              <a class="footer-link" href="terms.html">Terms of Service</a>
+              <a class="footer-link" href="privacy_policy.html">Privacy</a>
+            </nav>
           </footer>
+          
           <div id="scheduleModal" class="modal">
             <div class="modal-content">
               <div class="modal-header">
-                <h2 id="modal-title"></h2>
-                <p id="modal-description">6-Day Intensive Program</p>
+                <div class="modal-title-container">
+                  <h2 id="modal-title"></h2>
+                  <p id="modal-description" class="modal-description">6-Day Intensive Program</p>
+                </div>
+                
                 <button class="close-btn" onclick="closeModal()">×</button>
               </div>
 
@@ -331,13 +387,32 @@
     </div>
     <script src="scripts/modal_script.js"></script>
     <script src="scripts/tracks_script.js"></script>
+    <script src="scripts/countdown_script.js"></script>
     <script>
         function scrollToSection() {
         const tracksSection = document.querySelector("#tracks");
-        if (tracksSection) {
-            tracksSection.scrollIntoView({ behavior: "smooth" });
+          if (tracksSection) {
+              tracksSection.scrollIntoView({ behavior: "smooth" });
+          }
         }
+    </script>
+    <script>
+
+      function toggleAccordion(trigger) {
+        const content = trigger.nextElementSibling;
+
+        if (content.style.maxHeight) {
+          // If open, close it
+          content.style.maxHeight = null;
+          content.style.paddingTop = "0px"; // Add padding for smooth transition
+          content.style.paddingBottom = "0px";
+        } else {
+          // If closed, open it
+          content.style.maxHeight = content.scrollHeight + "px";
+          content.style.paddingTop = "16px"; // Add padding for smooth transition
+          content.style.paddingBottom = "16px";
         }
+      }
     </script>
     <script>  
         return 0;

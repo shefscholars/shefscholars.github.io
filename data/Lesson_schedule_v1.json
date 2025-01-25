@@ -4,9 +4,10 @@
         "Subject": "Number Theory",
         "Grade Level": "Beginner",
         "Date and Time": "January 31, 2025 15:00 (GMT+1) \u2192 15:45",
-        "Objectives": "",
+        "Objectives": "Students will learn and apply divisibility rules through guided examples and challenging problems.",
         "Lesson Status": "Not started",
-        "Teaching Method": "Lecture"
+        "Teaching Method": "Lecture",
+        "PDF Link": "./problems/B01_PSET__Divisibility.pdf"
     },
     {
         "Lesson Title": "Two Interesting Points in Geometry",
@@ -76,7 +77,7 @@
         "Subject": "Number Theory",
         "Grade Level": "Beginner",
         "Date and Time": "January 31, 2025 17:30 (GMT+1) \u2192 18:15",
-        "Objectives": "",
+        "Objectives": "Students will explore techniques to solve equations with integer solutions.",
         "Lesson Status": "Not started",
         "Teaching Method": "Lecture"
     },
@@ -121,7 +122,7 @@
         "Subject": "Geometry",
         "Grade Level": "Beginner",
         "Date and Time": "February 1, 2025 15:00 (GMT+1) \u2192 15:45",
-        "Objectives": "",
+        "Objectives": "Students will practice identifying angle relationships and use variables to calculate angles to solve geometric problems effectively",
         "Lesson Status": "Not started",
         "Teaching Method": "Lecture"
     },
@@ -193,7 +194,7 @@
         "Subject": "Geometry",
         "Grade Level": "Beginner",
         "Date and Time": "February 1, 2025 17:30 (GMT+1) \u2192 18:15",
-        "Objectives": "",
+        "Objectives": "Students will analyze properties of angles subtended by the same chord and explore related circle theorems.",
         "Lesson Status": "Not started",
         "Teaching Method": "Lecture"
     },
@@ -238,7 +239,7 @@
         "Subject": "Number Theory",
         "Grade Level": "Beginner",
         "Date and Time": "February 2, 2025 15:00 (GMT+1) \u2192 15:45",
-        "Objectives": "",
+        "Objectives": "Students will revisit key concepts in number theory, participate in a Q&A session, and solve related practice problems",
         "Lesson Status": "Not started",
         "Teaching Method": "Lecture"
     },
@@ -310,7 +311,7 @@
         "Subject": "Geometry",
         "Grade Level": "Beginner",
         "Date and Time": "February 2, 2025 17:30 (GMT+1) \u2192 18:15",
-        "Objectives": "",
+        "Objectives": "Students will revisit key concepts in geometry, participate in a Q&A session, and solve related practice problems.",
         "Lesson Status": "Not started",
         "Teaching Method": "Lecture"
     },
