@@ -424,48 +424,49 @@
         }
       }
     </script>
-    <script>  
-        return 0;
-        var a;  
-        a = setInterval(fun, 1000);  
 
-        let countDownDate = new Date("March 18, 2024 23:59:59 UTC -8").getTime();
-        function fun(){
+    <!-- <script>  
+        // return 0;
+        // var a;  
+        // a = setInterval(fun, 1000);  
+        // let countDownDate = new Date("March 11, 2024 23:59:59 UTC -8").getTime();
+        // function fun() {
+        //     // Get today's date and time
+        //     var now = new Date().getTime();
 
-            // Get today's date and time
-            var now = new Date().getTime();
 
-            // Find the distance between now and the count down date
-            var distance = countDownDate - now;
 
-            // Time calculations for days, hours, minutes and seconds
-            var days = Math.floor(distance / (1000 * 60 * 60 * 24));
-            var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-            var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-            var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+        //     // Find the distance between now and the count down date
+        //     var distance = countDownDate - now;
+
+        //     // Time calculations for days, hours, minutes and seconds
+        //     var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+        //     var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+        //     var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+        //     var seconds = Math.floor((distance % (1000 * 60)) / 1000);
             
-            // Display the result in the element with id="demo"
-            //document.getElementById("demo").innerHTML = days + "d " + hours + "h "
-            //+ minutes + "m " + seconds + "s ";
-            document.getElementById("days-remaining").innerHTML = days;
-            document.getElementById("hours-remaining").innerHTML = hours;
-            document.getElementById("minutes-remaining").innerHTML = minutes;
-            document.getElementById("seconds-remaining").innerHTML = seconds;
+        //     // Display the result in the element with id="demo"
+        //     //document.getElementById("demo").innerHTML = days + "d " + hours + "h "
+        //     //+ minutes + "m " + seconds + "s ";
+        //     document.getElementById("days-remaining").innerHTML = days;
+        //     document.getElementById("hours-remaining").innerHTML = hours;
+        //     document.getElementById("minutes-remaining").innerHTML = minutes;
+        //     document.getElementById("seconds-remaining").innerHTML = seconds;
 
-            document.getElementById("days-remaining2").innerHTML = days;
-            document.getElementById("hours-remaining2").innerHTML = hours;
-            document.getElementById("minutes-remaining2").innerHTML = minutes;
-            document.getElementById("seconds-remaining2").innerHTML = seconds;
+        //     document.getElementById("days-remaining2").innerHTML = days;
+        //     document.getElementById("hours-remaining2").innerHTML = hours;
+        //     document.getElementById("minutes-remaining2").innerHTML = minutes;
+        //     document.getElementById("seconds-remaining2").innerHTML = seconds;
 
-            // If the count down is finished, write some text
-            if (distance < 0) {
-            //clearInterval(x);
-            document.getElementById("demo-2").innerHTML = "<div style='height:20px'> </div>";
+        //     // If the count down is finished, write some text
+        //     if (distance < 0) {
+        //     //clearInterval(x);
+        //     document.getElementById("demo-2").innerHTML = "<div style='height:20px'> </div>";
             
-            document.getElementById("demo").innerHTML = "<div style='height:20px'> </div>";
-            }
-        }
+        //     document.getElementById("demo").innerHTML = "<div style='height:20px'> </div>";
+        //     }
+        // }
 
-    </script>  
+    </script>   -->
 </body>
 </html>
