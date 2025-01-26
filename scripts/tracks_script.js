@@ -6,10 +6,10 @@ const tracks = [
   ];
   
   const spots = {
-    "Beginner": 15,
-    "Apprentice": 15,
-    "Machine": 15,
-    "Shef": 15
+    "Beginner": 13,
+    "Apprentice": 12,
+    "Machine": 12,
+    "Shef": 11
   };
   
   function renderTracks() {
