@@ -16,7 +16,8 @@
         "Date and Time": "January 31, 2025 15:00 (GMT+1) \u2192 15:45",
         "Objectives": "",
         "Lesson Status": "Not started",
-        "Teaching Method": "Lecture"
+        "Teaching Method": "Lecture",
+        "PDF Link": "./problems/M01_PSET__Two_Interesting_Points_in_Geometry.pdf"
     },
     {
         "Lesson Title": "Modular Arithmetic",
@@ -25,7 +26,8 @@
         "Date and Time": "January 31, 2025 15:45 (GMT+1) \u2192 16:30",
         "Objectives": "",
         "Lesson Status": "Not started",
-        "Teaching Method": "Lecture"
+        "Teaching Method": "Lecture",
+        "PDF Link": "./problems/A01_PSET__Modular_Arithmetic.pdf"
     },
     {
         "Lesson Title": "Inversion",
