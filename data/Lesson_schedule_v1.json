@@ -25,7 +25,8 @@
         "Date and Time": "January 31, 2025 15:45 (GMT+1) \u2192 16:30",
         "Objectives": "",
         "Lesson Status": "Not started",
-        "Teaching Method": "Lecture"
+        "Teaching Method": "Lecture",
+        "PDF Link": "./problems/A01_PSET__Modular_Arithmetic.pdf"
     },
     {
         "Lesson Title": "Inversion",

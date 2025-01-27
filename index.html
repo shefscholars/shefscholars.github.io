@@ -160,6 +160,84 @@
                   </div>
                 </div>
               </section>
+
+
+              <section id="instructors" class="instructors-section">
+                <div class="content-container">
+                  <h2 class="section-title">Meet Our Instructors</h2>
+                  <div class="carousel-container">
+                    <button class="carousel-btn prev-btn" onclick="scrollPrev()">&#9664;</button>
+                    <div class="carousel-wrapper">
+                      <div class="carousel" id="carousel">
+                        <div class="carousel-item">
+                          <div class="instructor-card">
+                            <img src="/images/instructors/LagumdzijaZlatko-Salko_480.jpg" alt="Zlatko-Salko Lagumdzija (the Shef)" class="instructor-image" />
+                            <h3 class="instructor-name">Zlatko-Salko Lagumdzija (the Shef)</h3>
+                            <p class="instructor-bio">
+                              Triple <a href="https://www.imo-official.org/participant_r.aspx?id=25889" target="_blank">IMO</a> 
+                              Bronze Medalist and founder of Shef Scholars and the Shefs of Problem Solving YouTube channel. 
+                              Brown University Computer Science class of 21.5,
+                              former graduate fellow at the 
+                              <a href="https://algo-cancer.github.io/team/" target="_blank">Cancer Data Science Lab</a> at the 
+                              National Institutes of Health in Bethesda, Maryland. Currently
+                              a <a href="https://www.schwarzmanscholars.org/scholars/?y=2025#zlatko-salko-lagumdzija">Schwarzman Scholar</a> at Tsinghua University in Beijing, China.
+                            </p>
+                          </div>
+                        </div>
+                        <div class="carousel-item">
+                          <div class="instructor-card">
+                            <img src="./images/instructors/Adisa_image.jpg" alt="Adisa Bolić" class="instructor-image" />
+                            <h3 class="instructor-name">Adisa Bolić</h3>
+                            <p class="instructor-bio">
+                              <a href="https://www.imo-official.org/team_r.aspx?code=BIH&year=2024" target="_blank">Leader</a> of Bosnia and Herzegovina's 
+                              2024 IMO team which got 13th place out of 101 countries and has been leader since 2022.
+                              Triple <a href="https://www.imo-official.org/participant_r.aspx?id=25813" target="_blank">IMO</a> 
+                              contestant herself with 2 Bronze Medals and an Honourable Mention.
+                              Also a former <a href="https://www.egmo.org/people/person634/" target="_blank">EGMO</a> 
+                              contestant and leader with a Silver and Gold Medal from the competition.
+                              Got her bachelor's and master's degree in Mathematics and Computer Science from the University of Sarajevo with a perfect grade.
+                            </p>
+                          </div>
+                        </div>
+                        <div class="carousel-item">
+                          <div class="instructor-card">
+                            <img src="./images/instructors/Erwin_image.jpg" alt="Ervin Macić" class="instructor-image" />
+                            <h3 class="instructor-name">Ervin Macić</h3>
+                            <p class="instructor-bio">
+                              Double <a href="https://www.imo-official.org/participant_r.aspx?id=31268" target="_blank">IMO</a>  Bronze Medalist.
+                              Recent graduate of the University of Sarajevo top of his class. 
+                              Currently pursuing a masters degree in Mathematics and Computer Science at the University of Oxford.
+                            </p>
+                          </div>
+                        </div>
+                        <div class="carousel-item">
+                          <div class="instructor-card">
+                            <img src="/images/instructors/Ajla_image.jpg" alt="Ajla Sehovic" class="instructor-image" />
+                            <h3 class="instructor-name">Ajla Sehovic</h3>
+                            <p class="instructor-bio">
+                              Former math competitor and current PhD student at UP FAMNIT in Koper, 
+                              Slovenia where she's doing research in Mathematics and Cryptography.
+                            </p>
+                          </div>
+                        </div>
+                        <div class="carousel-item">
+                          <div class="instructor-card">
+                            <img src="/images/instructors/Aldin_image.jpg?height=400&width=400" alt="Aldin Adilovic" class="instructor-image" />
+                            <h3 class="instructor-name">Aldin Adilovic</h3>
+                            <p class="instructor-bio">
+                              Former math competitor and a bronze medalist from the Balkan Math Olympiad 2017. 
+                              Has been holding competitive math classes since 2017.
+                              Currently a student at the University of Sarajevo.
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <button class="carousel-btn next-btn" onclick="scrollNext()">&#9654;</button>
+                  </div>
+                </div>
+              </section>
+              
               
               
 
@@ -336,7 +414,14 @@
                         You can find the paying in installments form <a href="https://forms.gle/7ULJtAuf4fWkKqjg7" target="_blank">here</a> or by copy pasting this link https://forms.gle/7ULJtAuf4fWkKqjg7
                       </div>
                     </div>
-
+                    <div class="accordion-item">
+                      <button class="accordion-trigger" onclick="toggleAccordion(this)">
+                        How to figure out what level I should be apply for?
+                      </button>
+                      <div class="accordion-content">
+                        You can check out some example problems <a href="https://www.shefscholars.com/Practice_problems.pdf" target="_blank">here</a> which indicates the level of skill required for each level.
+                      </div>
+                    </div>
 
                     
                   </div>
@@ -394,6 +479,7 @@
     <script src="scripts/modal_script.js"></script>
     <script src="scripts/tracks_script.js"></script>
     <script src="scripts/countdown_script.js"></script>
+    <script src="scripts/carousel_script.js"></script>
     <script>
         function scrollToSection() {
         const tracksSection = document.querySelector("#tracks");

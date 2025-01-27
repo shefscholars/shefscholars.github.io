@@ -611,6 +611,135 @@ body {
 
 
 
+/* CAROUSEL STYLING */
+
+/* Instructors Section Styling */
+.instructors-section {
+  width: 100%;
+  padding: 48px 16px; /* py-12 px-4 */
+  background-color: #eff6ff;
+}
+
+@media (min-width: 768px) { /* md:py-24 px-6 */
+  .instructors-section {
+    padding: 96px 24px;
+  }
+}
+
+@media (min-width: 1024px) { /* lg:py-32 */
+  .instructors-section {
+    padding: 128px 24px;
+  }
+}
+
+/* Carousel Container */
+.carousel-container {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.carousel-wrapper {
+  overflow: hidden;
+  width: 100%;
+}
+
+.carousel {
+  display: flex;
+  transition: transform 0.3s ease-in-out;
+}
+
+.carousel-item {
+  flex: 0 0 100%;
+  max-width: 100%;
+  padding: 16px;
+}
+
+/* Instructor Card */
+.instructor-card {
+  background: #f9f9f9;
+  border-radius: 0.5rem;
+  padding: 1.5rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.instructor-image {
+  width: 100%;
+  height: auto;
+  border-radius: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.instructor-name {
+  font-size: 1.25rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.instructor-bio {
+  font-size: 1rem;
+  color: #555;
+}
+
+/* Carousel Buttons */
+.carousel-btn {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: #2563eb;
+  color: white;
+  border: none;
+  border-radius: 50%;
+  width: 2.5rem;
+  height: 2.5rem;
+  font-size: 1.5rem;
+  cursor: pointer;
+  z-index: 10;
+}
+
+.carousel-btn:hover {
+  background: #1d4ed8;
+}
+
+.prev-btn {
+  left: -1.5rem;
+}
+
+.next-btn {
+  right: -1.5rem;
+}
+
+/* Ensure Carousel Works on Resize */
+@media (min-width: 768px) {
+  .carousel-item {
+    flex: 0 0 50%;
+  }
+}
+
+@media (min-width: 1024px) {
+  .carousel-item {
+    flex: 0 0 33.33%;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* Features Section styling */
 .features-section {
     width: 100%;
