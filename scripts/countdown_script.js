@@ -1,5 +1,6 @@
 function startCountdown(targetDate, elementId) {
     const element = document.getElementById(elementId);
+    const parentElement = element.closest(".countdown"); 
   
     function calculateTimeLeft() {
       const now = new Date().getTime();
@@ -7,6 +8,9 @@ function startCountdown(targetDate, elementId) {
   
       if (timeLeft <= 0) {
         element.textContent = "Time's up!";
+        if (parentElement) {
+          parentElement.style.display = "none";
+        }
         return;
       }
   
