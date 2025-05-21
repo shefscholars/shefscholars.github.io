@@ -12,7 +12,7 @@ const schedule = [
   let lessonPlans = [];
 
   // Fetch the lesson plans data
-  fetch("/data/Lesson_schedule_v1.json")
+  fetch("/data/Lesson_schedule_v2.json")
     .then(response => response.json())
     .then(data => {
       lessonPlans = data;
@@ -45,7 +45,14 @@ const schedule = [
 
          // Group lessons by date
         const lessonsByDate = filteredLessons.reduce((acc, lesson) => {
-            const date = lesson['Date and Time'].split("2025")[0].trim() + " 2025"; // Extract date
+            let date;
+            if (lesson['Date and Time'].includes("2025")) {
+                date = lesson['Date and Time'].split("2025")[0].trim() + " 2025"; // Extract date
+            } else {
+              date = lesson['Date and Time'].split("2026")[0].trim() + " 2026"; // Extract date
+            }
+            // const date = lesson['Date and Time'].split("2025")[0].trim() + " 2025"; // Extract date
+            console.log(date);
             if (!acc[date]) {
             acc[date] = [];
             }
@@ -75,7 +82,13 @@ const schedule = [
                 itemElement.appendChild(itemName);
 
                 const itemTime = document.createElement("p");
-                itemTime.textContent = lesson['Date and Time'].split("2025")[1].trim().replace("(GMT+1) \u2192", "-") + " (GMT+1)";
+
+                //  if (lesson['Date and Time'].includes("2025")) {
+                // itemTime.textContent = lesson['Date and Time'].split("2025")[1].trim().replace("(GMT+2) →", "-") + " (GMT+2)";
+                //  } else {
+                //     itemTime.textContent = lesson['Date and Time'].split("2026")[1].trim().replace("(GMT+2) →", "-") + " (GMT+2)";
+                //  }
+                itemTime.textContent = lesson['Date and Time'];
                 itemElement.appendChild(itemTime);
         
                 if (lesson.Objectives) {

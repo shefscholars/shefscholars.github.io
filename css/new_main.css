@@ -107,6 +107,19 @@ body {
     padding-right: 16px;
   }
   
+
+  /* Content container for limiting width */
+  .experience-content-container {
+    width: 100%;
+    max-width: 1366px;
+    margin: 0 auto;
+    padding-left: 16px; /* Equivalent to px-4 */
+    padding-right: 16px;
+  }
+  
+
+
+
   @media (min-width: 768px) { /* md:px-6 */
     .content-container {
       padding-left: 24px;
@@ -475,7 +488,7 @@ body {
 
 @media (min-width: 768px) {
   .pricing-grid {
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(3, 1fr);
   }
 }
 
@@ -543,6 +556,7 @@ body {
   padding: 0;
   margin: 0;
   margin-bottom: 24px;
+  /* font-size: 6px; */
 }
 
 .pricing-feature {

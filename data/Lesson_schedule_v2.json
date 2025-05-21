@@ -1,0 +1,4322 @@
+[
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Beginner A",
+        "Session": "Morning",
+        "Date and Time": "August 02, 2025 09:00 (GMT+2) → 10:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Beginner A",
+        "Session": "Morning",
+        "Date and Time": "August 02, 2025 10:15 (GMT+2) → 11:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Beginner A",
+        "Session": "Morning",
+        "Date and Time": "August 09, 2025 09:00 (GMT+2) → 10:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Beginner A",
+        "Session": "Morning",
+        "Date and Time": "August 09, 2025 10:15 (GMT+2) → 11:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Beginner A",
+        "Session": "Morning",
+        "Date and Time": "August 16, 2025 09:00 (GMT+2) → 10:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Beginner A",
+        "Session": "Morning",
+        "Date and Time": "August 16, 2025 10:15 (GMT+2) → 11:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "General Lecture",
+        "Grade Level": "Beginner A",
+        "Session": "Morning",
+        "Date and Time": "August 23, 2025 09:00 (GMT+2) → 10:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Beginner A",
+        "Session": "Morning",
+        "Date and Time": "August 23, 2025 10:15 (GMT+2) → 11:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Beginner A",
+        "Session": "Morning",
+        "Date and Time": "August 30, 2025 09:00 (GMT+2) → 10:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Beginner A",
+        "Session": "Morning",
+        "Date and Time": "August 30, 2025 10:15 (GMT+2) → 11:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Test Review",
+        "Grade Level": "Beginner A",
+        "Session": "Morning",
+        "Date and Time": "September 06, 2025 09:00 (GMT+2) → 10:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Beginner A",
+        "Session": "Morning",
+        "Date and Time": "September 06, 2025 10:15 (GMT+2) → 11:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Beginner A",
+        "Session": "Morning",
+        "Date and Time": "September 13, 2025 09:00 (GMT+2) → 10:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Beginner A",
+        "Session": "Morning",
+        "Date and Time": "September 13, 2025 10:15 (GMT+2) → 11:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Test Review",
+        "Grade Level": "Beginner A",
+        "Session": "Morning",
+        "Date and Time": "September 20, 2025 09:00 (GMT+2) → 10:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Beginner A",
+        "Session": "Morning",
+        "Date and Time": "September 20, 2025 10:15 (GMT+2) → 11:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Beginner A",
+        "Session": "Morning",
+        "Date and Time": "September 27, 2025 09:00 (GMT+2) → 10:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "General Lecture",
+        "Grade Level": "Beginner A",
+        "Session": "Morning",
+        "Date and Time": "September 27, 2025 10:15 (GMT+2) → 11:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Beginner A",
+        "Session": "Morning",
+        "Date and Time": "October 04, 2025 09:00 (GMT+2) → 10:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Beginner A",
+        "Session": "Morning",
+        "Date and Time": "October 04, 2025 10:15 (GMT+2) → 11:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Beginner A",
+        "Session": "Morning",
+        "Date and Time": "October 11, 2025 09:00 (GMT+2) → 10:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Beginner A",
+        "Session": "Morning",
+        "Date and Time": "October 11, 2025 10:15 (GMT+2) → 11:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Beginner A",
+        "Session": "Morning",
+        "Date and Time": "October 18, 2025 09:00 (GMT+2) → 10:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Beginner A",
+        "Session": "Morning",
+        "Date and Time": "October 18, 2025 10:15 (GMT+2) → 11:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Beginner A",
+        "Session": "Morning",
+        "Date and Time": "October 25, 2025 09:00 (GMT+2) → 10:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Beginner A",
+        "Session": "Morning",
+        "Date and Time": "October 25, 2025 10:15 (GMT+2) → 11:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Beginner A",
+        "Session": "Morning",
+        "Date and Time": "November 01, 2025 09:00 (GMT+1) → 10:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Beginner A",
+        "Session": "Morning",
+        "Date and Time": "November 01, 2025 10:15 (GMT+1) → 11:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Beginner A",
+        "Session": "Morning",
+        "Date and Time": "November 08, 2025 09:00 (GMT+1) → 10:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Beginner A",
+        "Session": "Morning",
+        "Date and Time": "November 08, 2025 10:15 (GMT+1) → 11:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Beginner A",
+        "Session": "Morning",
+        "Date and Time": "November 15, 2025 09:00 (GMT+1) → 10:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Test Review",
+        "Grade Level": "Beginner A",
+        "Session": "Morning",
+        "Date and Time": "November 15, 2025 10:15 (GMT+1) → 11:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Beginner A",
+        "Session": "Morning",
+        "Date and Time": "November 22, 2025 09:00 (GMT+1) → 10:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Beginner A",
+        "Session": "Morning",
+        "Date and Time": "November 22, 2025 10:15 (GMT+1) → 11:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Beginner A",
+        "Session": "Morning",
+        "Date and Time": "November 29, 2025 09:00 (GMT+1) → 10:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Beginner A",
+        "Session": "Morning",
+        "Date and Time": "November 29, 2025 10:15 (GMT+1) → 11:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Test Review",
+        "Grade Level": "Beginner A",
+        "Session": "Morning",
+        "Date and Time": "December 06, 2025 09:00 (GMT+1) → 10:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Beginner A",
+        "Session": "Morning",
+        "Date and Time": "December 06, 2025 10:15 (GMT+1) → 11:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "General Lecture",
+        "Grade Level": "Beginner A",
+        "Session": "Morning",
+        "Date and Time": "December 13, 2025 09:00 (GMT+1) → 10:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Beginner A",
+        "Session": "Morning",
+        "Date and Time": "December 13, 2025 10:15 (GMT+1) → 11:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Test Review",
+        "Grade Level": "Beginner A",
+        "Session": "Morning",
+        "Date and Time": "December 20, 2025 09:00 (GMT+1) → 10:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Beginner A",
+        "Session": "Morning",
+        "Date and Time": "December 20, 2025 10:15 (GMT+1) → 11:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Beginner A",
+        "Session": "Morning",
+        "Date and Time": "December 27, 2025 09:00 (GMT+1) → 10:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Beginner A",
+        "Session": "Morning",
+        "Date and Time": "December 27, 2025 10:15 (GMT+1) → 11:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Beginner A",
+        "Session": "Morning",
+        "Date and Time": "January 03, 2026 09:00 (GMT+1) → 10:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Beginner A",
+        "Session": "Morning",
+        "Date and Time": "January 03, 2026 10:15 (GMT+1) → 11:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Beginner A",
+        "Session": "Morning",
+        "Date and Time": "January 10, 2026 09:00 (GMT+1) → 10:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Beginner A",
+        "Session": "Morning",
+        "Date and Time": "January 10, 2026 10:15 (GMT+1) → 11:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Beginner A",
+        "Session": "Morning",
+        "Date and Time": "January 17, 2026 09:00 (GMT+1) → 10:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Beginner A",
+        "Session": "Morning",
+        "Date and Time": "January 17, 2026 10:15 (GMT+1) → 11:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "General Lecture",
+        "Grade Level": "Beginner A",
+        "Session": "Morning",
+        "Date and Time": "January 24, 2026 09:00 (GMT+1) → 10:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Test Review",
+        "Grade Level": "Beginner A",
+        "Session": "Morning",
+        "Date and Time": "January 24, 2026 10:15 (GMT+1) → 11:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Beginner A",
+        "Session": "Morning",
+        "Date and Time": "January 31, 2026 09:00 (GMT+1) → 10:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Beginner A",
+        "Session": "Morning",
+        "Date and Time": "January 31, 2026 10:15 (GMT+1) → 11:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Beginner B",
+        "Session": "Evening",
+        "Date and Time": "August 02, 2025 17:00 (GMT+2) → 18:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Beginner B",
+        "Session": "Evening",
+        "Date and Time": "August 02, 2025 18:15 (GMT+2) → 19:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Beginner B",
+        "Session": "Evening",
+        "Date and Time": "August 09, 2025 17:00 (GMT+2) → 18:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Beginner B",
+        "Session": "Evening",
+        "Date and Time": "August 09, 2025 18:15 (GMT+2) → 19:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Beginner B",
+        "Session": "Evening",
+        "Date and Time": "August 16, 2025 17:00 (GMT+2) → 18:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Beginner B",
+        "Session": "Evening",
+        "Date and Time": "August 16, 2025 18:15 (GMT+2) → 19:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Beginner B",
+        "Session": "Evening",
+        "Date and Time": "August 23, 2025 17:00 (GMT+2) → 18:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Beginner B",
+        "Session": "Evening",
+        "Date and Time": "August 23, 2025 18:15 (GMT+2) → 19:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Beginner B",
+        "Session": "Evening",
+        "Date and Time": "August 30, 2025 17:00 (GMT+2) → 18:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Beginner B",
+        "Session": "Evening",
+        "Date and Time": "August 30, 2025 18:15 (GMT+2) → 19:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Beginner B",
+        "Session": "Evening",
+        "Date and Time": "September 06, 2025 17:00 (GMT+2) → 18:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Beginner B",
+        "Session": "Evening",
+        "Date and Time": "September 06, 2025 18:15 (GMT+2) → 19:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Beginner B",
+        "Session": "Evening",
+        "Date and Time": "September 13, 2025 17:00 (GMT+2) → 18:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Beginner B",
+        "Session": "Evening",
+        "Date and Time": "September 13, 2025 18:15 (GMT+2) → 19:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Beginner B",
+        "Session": "Evening",
+        "Date and Time": "September 20, 2025 17:00 (GMT+2) → 18:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Beginner B",
+        "Session": "Evening",
+        "Date and Time": "September 20, 2025 18:15 (GMT+2) → 19:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Beginner B",
+        "Session": "Evening",
+        "Date and Time": "September 27, 2025 17:00 (GMT+2) → 18:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Beginner B",
+        "Session": "Evening",
+        "Date and Time": "September 27, 2025 18:15 (GMT+2) → 19:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Beginner B",
+        "Session": "Evening",
+        "Date and Time": "October 04, 2025 17:00 (GMT+2) → 18:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Beginner B",
+        "Session": "Evening",
+        "Date and Time": "October 04, 2025 18:15 (GMT+2) → 19:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "General Lecture",
+        "Grade Level": "Beginner B",
+        "Session": "Evening",
+        "Date and Time": "October 11, 2025 17:00 (GMT+2) → 18:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Test Review",
+        "Grade Level": "Beginner B",
+        "Session": "Evening",
+        "Date and Time": "October 11, 2025 18:15 (GMT+2) → 19:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Beginner B",
+        "Session": "Evening",
+        "Date and Time": "October 18, 2025 17:00 (GMT+2) → 18:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Beginner B",
+        "Session": "Evening",
+        "Date and Time": "October 18, 2025 18:15 (GMT+2) → 19:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Beginner B",
+        "Session": "Evening",
+        "Date and Time": "October 25, 2025 17:00 (GMT+2) → 18:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Beginner B",
+        "Session": "Evening",
+        "Date and Time": "October 25, 2025 18:15 (GMT+2) → 19:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Beginner B",
+        "Session": "Evening",
+        "Date and Time": "November 01, 2025 17:00 (GMT+1) → 18:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Beginner B",
+        "Session": "Evening",
+        "Date and Time": "November 01, 2025 18:15 (GMT+1) → 19:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "General Lecture",
+        "Grade Level": "Beginner B",
+        "Session": "Evening",
+        "Date and Time": "November 08, 2025 17:00 (GMT+1) → 18:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Beginner B",
+        "Session": "Evening",
+        "Date and Time": "November 08, 2025 18:15 (GMT+1) → 19:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Beginner B",
+        "Session": "Evening",
+        "Date and Time": "November 15, 2025 17:00 (GMT+1) → 18:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Test Review",
+        "Grade Level": "Beginner B",
+        "Session": "Evening",
+        "Date and Time": "November 15, 2025 18:15 (GMT+1) → 19:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Beginner B",
+        "Session": "Evening",
+        "Date and Time": "November 22, 2025 17:00 (GMT+1) → 18:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Test Review",
+        "Grade Level": "Beginner B",
+        "Session": "Evening",
+        "Date and Time": "November 22, 2025 18:15 (GMT+1) → 19:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Beginner B",
+        "Session": "Evening",
+        "Date and Time": "November 29, 2025 17:00 (GMT+1) → 18:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Beginner B",
+        "Session": "Evening",
+        "Date and Time": "November 29, 2025 18:15 (GMT+1) → 19:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Test Review",
+        "Grade Level": "Beginner B",
+        "Session": "Evening",
+        "Date and Time": "December 06, 2025 17:00 (GMT+1) → 18:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Beginner B",
+        "Session": "Evening",
+        "Date and Time": "December 06, 2025 18:15 (GMT+1) → 19:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Beginner B",
+        "Session": "Evening",
+        "Date and Time": "December 13, 2025 17:00 (GMT+1) → 18:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Beginner B",
+        "Session": "Evening",
+        "Date and Time": "December 13, 2025 18:15 (GMT+1) → 19:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Beginner B",
+        "Session": "Evening",
+        "Date and Time": "December 20, 2025 17:00 (GMT+1) → 18:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Beginner B",
+        "Session": "Evening",
+        "Date and Time": "December 20, 2025 18:15 (GMT+1) → 19:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "General Lecture",
+        "Grade Level": "Beginner B",
+        "Session": "Evening",
+        "Date and Time": "December 27, 2025 17:00 (GMT+1) → 18:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Beginner B",
+        "Session": "Evening",
+        "Date and Time": "December 27, 2025 18:15 (GMT+1) → 19:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Beginner B",
+        "Session": "Evening",
+        "Date and Time": "January 03, 2026 17:00 (GMT+1) → 18:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Test Review",
+        "Grade Level": "Beginner B",
+        "Session": "Evening",
+        "Date and Time": "January 03, 2026 18:15 (GMT+1) → 19:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Test Review",
+        "Grade Level": "Beginner B",
+        "Session": "Evening",
+        "Date and Time": "January 10, 2026 17:00 (GMT+1) → 18:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Beginner B",
+        "Session": "Evening",
+        "Date and Time": "January 10, 2026 18:15 (GMT+1) → 19:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Beginner B",
+        "Session": "Evening",
+        "Date and Time": "January 17, 2026 17:00 (GMT+1) → 18:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "General Lecture",
+        "Grade Level": "Beginner B",
+        "Session": "Evening",
+        "Date and Time": "January 17, 2026 18:15 (GMT+1) → 19:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Beginner B",
+        "Session": "Evening",
+        "Date and Time": "January 24, 2026 17:00 (GMT+1) → 18:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Beginner B",
+        "Session": "Evening",
+        "Date and Time": "January 24, 2026 18:15 (GMT+1) → 19:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Beginner B",
+        "Session": "Evening",
+        "Date and Time": "January 31, 2026 17:00 (GMT+1) → 18:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Beginner B",
+        "Session": "Evening",
+        "Date and Time": "January 31, 2026 18:15 (GMT+1) → 19:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Machine A",
+        "Session": "Morning",
+        "Date and Time": "August 02, 2025 11:30 (GMT+2) → 12:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Machine A",
+        "Session": "Morning",
+        "Date and Time": "August 02, 2025 12:45 (GMT+2) → 13:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Machine A",
+        "Session": "Morning",
+        "Date and Time": "August 09, 2025 11:30 (GMT+2) → 12:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Machine A",
+        "Session": "Morning",
+        "Date and Time": "August 09, 2025 12:45 (GMT+2) → 13:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Machine A",
+        "Session": "Morning",
+        "Date and Time": "August 16, 2025 11:30 (GMT+2) → 12:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Machine A",
+        "Session": "Morning",
+        "Date and Time": "August 16, 2025 12:45 (GMT+2) → 13:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Machine A",
+        "Session": "Morning",
+        "Date and Time": "August 23, 2025 11:30 (GMT+2) → 12:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Machine A",
+        "Session": "Morning",
+        "Date and Time": "August 23, 2025 12:45 (GMT+2) → 13:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "General Lecture",
+        "Grade Level": "Machine A",
+        "Session": "Morning",
+        "Date and Time": "August 30, 2025 11:30 (GMT+2) → 12:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Machine A",
+        "Session": "Morning",
+        "Date and Time": "August 30, 2025 12:45 (GMT+2) → 13:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Machine A",
+        "Session": "Morning",
+        "Date and Time": "September 06, 2025 11:30 (GMT+2) → 12:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Machine A",
+        "Session": "Morning",
+        "Date and Time": "September 06, 2025 12:45 (GMT+2) → 13:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Machine A",
+        "Session": "Morning",
+        "Date and Time": "September 13, 2025 11:30 (GMT+2) → 12:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Test Review",
+        "Grade Level": "Machine A",
+        "Session": "Morning",
+        "Date and Time": "September 13, 2025 12:45 (GMT+2) → 13:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Machine A",
+        "Session": "Morning",
+        "Date and Time": "September 20, 2025 11:30 (GMT+2) → 12:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "General Lecture",
+        "Grade Level": "Machine A",
+        "Session": "Morning",
+        "Date and Time": "September 20, 2025 12:45 (GMT+2) → 13:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Test Review",
+        "Grade Level": "Machine A",
+        "Session": "Morning",
+        "Date and Time": "September 27, 2025 11:30 (GMT+2) → 12:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Machine A",
+        "Session": "Morning",
+        "Date and Time": "September 27, 2025 12:45 (GMT+2) → 13:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Machine A",
+        "Session": "Morning",
+        "Date and Time": "October 04, 2025 11:30 (GMT+2) → 12:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Machine A",
+        "Session": "Morning",
+        "Date and Time": "October 04, 2025 12:45 (GMT+2) → 13:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Machine A",
+        "Session": "Morning",
+        "Date and Time": "October 11, 2025 11:30 (GMT+2) → 12:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Machine A",
+        "Session": "Morning",
+        "Date and Time": "October 11, 2025 12:45 (GMT+2) → 13:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Machine A",
+        "Session": "Morning",
+        "Date and Time": "October 18, 2025 11:30 (GMT+2) → 12:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Machine A",
+        "Session": "Morning",
+        "Date and Time": "October 18, 2025 12:45 (GMT+2) → 13:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Machine A",
+        "Session": "Morning",
+        "Date and Time": "October 25, 2025 11:30 (GMT+2) → 12:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Machine A",
+        "Session": "Morning",
+        "Date and Time": "October 25, 2025 12:45 (GMT+2) → 13:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Test Review",
+        "Grade Level": "Machine A",
+        "Session": "Morning",
+        "Date and Time": "November 01, 2025 11:30 (GMT+1) → 12:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Machine A",
+        "Session": "Morning",
+        "Date and Time": "November 01, 2025 12:45 (GMT+1) → 13:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "General Lecture",
+        "Grade Level": "Machine A",
+        "Session": "Morning",
+        "Date and Time": "November 08, 2025 11:30 (GMT+1) → 12:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Machine A",
+        "Session": "Morning",
+        "Date and Time": "November 08, 2025 12:45 (GMT+1) → 13:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Machine A",
+        "Session": "Morning",
+        "Date and Time": "November 15, 2025 11:30 (GMT+1) → 12:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Machine A",
+        "Session": "Morning",
+        "Date and Time": "November 15, 2025 12:45 (GMT+1) → 13:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Machine A",
+        "Session": "Morning",
+        "Date and Time": "November 22, 2025 11:30 (GMT+1) → 12:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Test Review",
+        "Grade Level": "Machine A",
+        "Session": "Morning",
+        "Date and Time": "November 22, 2025 12:45 (GMT+1) → 13:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Machine A",
+        "Session": "Morning",
+        "Date and Time": "November 29, 2025 11:30 (GMT+1) → 12:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Machine A",
+        "Session": "Morning",
+        "Date and Time": "November 29, 2025 12:45 (GMT+1) → 13:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Machine A",
+        "Session": "Morning",
+        "Date and Time": "December 06, 2025 11:30 (GMT+1) → 12:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Machine A",
+        "Session": "Morning",
+        "Date and Time": "December 06, 2025 12:45 (GMT+1) → 13:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Machine A",
+        "Session": "Morning",
+        "Date and Time": "December 13, 2025 11:30 (GMT+1) → 12:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Machine A",
+        "Session": "Morning",
+        "Date and Time": "December 13, 2025 12:45 (GMT+1) → 13:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Machine A",
+        "Session": "Morning",
+        "Date and Time": "December 20, 2025 11:30 (GMT+1) → 12:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Machine A",
+        "Session": "Morning",
+        "Date and Time": "December 20, 2025 12:45 (GMT+1) → 13:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Machine A",
+        "Session": "Morning",
+        "Date and Time": "December 27, 2025 11:30 (GMT+1) → 12:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Test Review",
+        "Grade Level": "Machine A",
+        "Session": "Morning",
+        "Date and Time": "December 27, 2025 12:45 (GMT+1) → 13:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Test Review",
+        "Grade Level": "Machine A",
+        "Session": "Morning",
+        "Date and Time": "January 03, 2026 11:30 (GMT+1) → 12:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Machine A",
+        "Session": "Morning",
+        "Date and Time": "January 03, 2026 12:45 (GMT+1) → 13:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Machine A",
+        "Session": "Morning",
+        "Date and Time": "January 10, 2026 11:30 (GMT+1) → 12:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Machine A",
+        "Session": "Morning",
+        "Date and Time": "January 10, 2026 12:45 (GMT+1) → 13:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "General Lecture",
+        "Grade Level": "Machine A",
+        "Session": "Morning",
+        "Date and Time": "January 17, 2026 11:30 (GMT+1) → 12:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Machine A",
+        "Session": "Morning",
+        "Date and Time": "January 17, 2026 12:45 (GMT+1) → 13:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Machine A",
+        "Session": "Morning",
+        "Date and Time": "January 24, 2026 11:30 (GMT+1) → 12:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Machine A",
+        "Session": "Morning",
+        "Date and Time": "January 24, 2026 12:45 (GMT+1) → 13:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Machine A",
+        "Session": "Morning",
+        "Date and Time": "January 31, 2026 11:30 (GMT+1) → 12:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Machine A",
+        "Session": "Morning",
+        "Date and Time": "January 31, 2026 12:45 (GMT+1) → 13:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Machine B",
+        "Session": "Evening",
+        "Date and Time": "August 02, 2025 19:30 (GMT+2) → 20:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Test Review",
+        "Grade Level": "Machine B",
+        "Session": "Evening",
+        "Date and Time": "August 02, 2025 20:45 (GMT+2) → 21:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Test Review",
+        "Grade Level": "Machine B",
+        "Session": "Evening",
+        "Date and Time": "August 09, 2025 19:30 (GMT+2) → 20:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Machine B",
+        "Session": "Evening",
+        "Date and Time": "August 09, 2025 20:45 (GMT+2) → 21:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Test Review",
+        "Grade Level": "Machine B",
+        "Session": "Evening",
+        "Date and Time": "August 16, 2025 19:30 (GMT+2) → 20:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Machine B",
+        "Session": "Evening",
+        "Date and Time": "August 16, 2025 20:45 (GMT+2) → 21:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Machine B",
+        "Session": "Evening",
+        "Date and Time": "August 23, 2025 19:30 (GMT+2) → 20:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Machine B",
+        "Session": "Evening",
+        "Date and Time": "August 23, 2025 20:45 (GMT+2) → 21:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Machine B",
+        "Session": "Evening",
+        "Date and Time": "August 30, 2025 19:30 (GMT+2) → 20:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Machine B",
+        "Session": "Evening",
+        "Date and Time": "August 30, 2025 20:45 (GMT+2) → 21:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Machine B",
+        "Session": "Evening",
+        "Date and Time": "September 06, 2025 19:30 (GMT+2) → 20:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Test Review",
+        "Grade Level": "Machine B",
+        "Session": "Evening",
+        "Date and Time": "September 06, 2025 20:45 (GMT+2) → 21:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Machine B",
+        "Session": "Evening",
+        "Date and Time": "September 13, 2025 19:30 (GMT+2) → 20:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Machine B",
+        "Session": "Evening",
+        "Date and Time": "September 13, 2025 20:45 (GMT+2) → 21:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Machine B",
+        "Session": "Evening",
+        "Date and Time": "September 20, 2025 19:30 (GMT+2) → 20:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Machine B",
+        "Session": "Evening",
+        "Date and Time": "September 20, 2025 20:45 (GMT+2) → 21:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Machine B",
+        "Session": "Evening",
+        "Date and Time": "September 27, 2025 19:30 (GMT+2) → 20:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Machine B",
+        "Session": "Evening",
+        "Date and Time": "September 27, 2025 20:45 (GMT+2) → 21:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Machine B",
+        "Session": "Evening",
+        "Date and Time": "October 04, 2025 19:30 (GMT+2) → 20:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "General Lecture",
+        "Grade Level": "Machine B",
+        "Session": "Evening",
+        "Date and Time": "October 04, 2025 20:45 (GMT+2) → 21:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "General Lecture",
+        "Grade Level": "Machine B",
+        "Session": "Evening",
+        "Date and Time": "October 11, 2025 19:30 (GMT+2) → 20:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Machine B",
+        "Session": "Evening",
+        "Date and Time": "October 11, 2025 20:45 (GMT+2) → 21:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Machine B",
+        "Session": "Evening",
+        "Date and Time": "October 18, 2025 19:30 (GMT+2) → 20:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Machine B",
+        "Session": "Evening",
+        "Date and Time": "October 18, 2025 20:45 (GMT+2) → 21:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Machine B",
+        "Session": "Evening",
+        "Date and Time": "October 25, 2025 19:30 (GMT+2) → 20:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Machine B",
+        "Session": "Evening",
+        "Date and Time": "October 25, 2025 20:45 (GMT+2) → 21:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Test Review",
+        "Grade Level": "Machine B",
+        "Session": "Evening",
+        "Date and Time": "November 01, 2025 19:30 (GMT+1) → 20:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Machine B",
+        "Session": "Evening",
+        "Date and Time": "November 01, 2025 20:45 (GMT+1) → 21:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Machine B",
+        "Session": "Evening",
+        "Date and Time": "November 08, 2025 19:30 (GMT+1) → 20:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Machine B",
+        "Session": "Evening",
+        "Date and Time": "November 08, 2025 20:45 (GMT+1) → 21:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Machine B",
+        "Session": "Evening",
+        "Date and Time": "November 15, 2025 19:30 (GMT+1) → 20:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Machine B",
+        "Session": "Evening",
+        "Date and Time": "November 15, 2025 20:45 (GMT+1) → 21:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Machine B",
+        "Session": "Evening",
+        "Date and Time": "November 22, 2025 19:30 (GMT+1) → 20:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Machine B",
+        "Session": "Evening",
+        "Date and Time": "November 22, 2025 20:45 (GMT+1) → 21:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Machine B",
+        "Session": "Evening",
+        "Date and Time": "November 29, 2025 19:30 (GMT+1) → 20:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Machine B",
+        "Session": "Evening",
+        "Date and Time": "November 29, 2025 20:45 (GMT+1) → 21:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Test Review",
+        "Grade Level": "Machine B",
+        "Session": "Evening",
+        "Date and Time": "December 06, 2025 19:30 (GMT+1) → 20:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Machine B",
+        "Session": "Evening",
+        "Date and Time": "December 06, 2025 20:45 (GMT+1) → 21:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Machine B",
+        "Session": "Evening",
+        "Date and Time": "December 13, 2025 19:30 (GMT+1) → 20:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Machine B",
+        "Session": "Evening",
+        "Date and Time": "December 13, 2025 20:45 (GMT+1) → 21:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Machine B",
+        "Session": "Evening",
+        "Date and Time": "December 20, 2025 19:30 (GMT+1) → 20:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Machine B",
+        "Session": "Evening",
+        "Date and Time": "December 20, 2025 20:45 (GMT+1) → 21:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Machine B",
+        "Session": "Evening",
+        "Date and Time": "December 27, 2025 19:30 (GMT+1) → 20:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "General Lecture",
+        "Grade Level": "Machine B",
+        "Session": "Evening",
+        "Date and Time": "December 27, 2025 20:45 (GMT+1) → 21:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Machine B",
+        "Session": "Evening",
+        "Date and Time": "January 03, 2026 19:30 (GMT+1) → 20:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Machine B",
+        "Session": "Evening",
+        "Date and Time": "January 03, 2026 20:45 (GMT+1) → 21:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "General Lecture",
+        "Grade Level": "Machine B",
+        "Session": "Evening",
+        "Date and Time": "January 10, 2026 19:30 (GMT+1) → 20:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Machine B",
+        "Session": "Evening",
+        "Date and Time": "January 10, 2026 20:45 (GMT+1) → 21:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Machine B",
+        "Session": "Evening",
+        "Date and Time": "January 17, 2026 19:30 (GMT+1) → 20:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Machine B",
+        "Session": "Evening",
+        "Date and Time": "January 17, 2026 20:45 (GMT+1) → 21:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Machine B",
+        "Session": "Evening",
+        "Date and Time": "January 24, 2026 19:30 (GMT+1) → 20:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Machine B",
+        "Session": "Evening",
+        "Date and Time": "January 24, 2026 20:45 (GMT+1) → 21:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Machine B",
+        "Session": "Evening",
+        "Date and Time": "January 31, 2026 19:30 (GMT+1) → 20:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Machine B",
+        "Session": "Evening",
+        "Date and Time": "January 31, 2026 20:45 (GMT+1) → 21:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Apprentice A",
+        "Session": "Morning",
+        "Date and Time": "August 03, 2025 09:00 (GMT+2) → 10:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Apprentice A",
+        "Session": "Morning",
+        "Date and Time": "August 03, 2025 10:15 (GMT+2) → 11:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Apprentice A",
+        "Session": "Morning",
+        "Date and Time": "August 10, 2025 09:00 (GMT+2) → 10:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Apprentice A",
+        "Session": "Morning",
+        "Date and Time": "August 10, 2025 10:15 (GMT+2) → 11:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Apprentice A",
+        "Session": "Morning",
+        "Date and Time": "August 17, 2025 09:00 (GMT+2) → 10:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Apprentice A",
+        "Session": "Morning",
+        "Date and Time": "August 17, 2025 10:15 (GMT+2) → 11:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Apprentice A",
+        "Session": "Morning",
+        "Date and Time": "August 24, 2025 09:00 (GMT+2) → 10:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Apprentice A",
+        "Session": "Morning",
+        "Date and Time": "August 24, 2025 10:15 (GMT+2) → 11:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Apprentice A",
+        "Session": "Morning",
+        "Date and Time": "August 31, 2025 09:00 (GMT+2) → 10:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Apprentice A",
+        "Session": "Morning",
+        "Date and Time": "August 31, 2025 10:15 (GMT+2) → 11:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Apprentice A",
+        "Session": "Morning",
+        "Date and Time": "September 07, 2025 09:00 (GMT+2) → 10:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Apprentice A",
+        "Session": "Morning",
+        "Date and Time": "September 07, 2025 10:15 (GMT+2) → 11:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Apprentice A",
+        "Session": "Morning",
+        "Date and Time": "September 14, 2025 09:00 (GMT+2) → 10:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "General Lecture",
+        "Grade Level": "Apprentice A",
+        "Session": "Morning",
+        "Date and Time": "September 14, 2025 10:15 (GMT+2) → 11:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Apprentice A",
+        "Session": "Morning",
+        "Date and Time": "September 21, 2025 09:00 (GMT+2) → 10:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Apprentice A",
+        "Session": "Morning",
+        "Date and Time": "September 21, 2025 10:15 (GMT+2) → 11:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Apprentice A",
+        "Session": "Morning",
+        "Date and Time": "September 28, 2025 09:00 (GMT+2) → 10:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Apprentice A",
+        "Session": "Morning",
+        "Date and Time": "September 28, 2025 10:15 (GMT+2) → 11:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "General Lecture",
+        "Grade Level": "Apprentice A",
+        "Session": "Morning",
+        "Date and Time": "October 05, 2025 09:00 (GMT+2) → 10:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Test Review",
+        "Grade Level": "Apprentice A",
+        "Session": "Morning",
+        "Date and Time": "October 05, 2025 10:15 (GMT+2) → 11:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Test Review",
+        "Grade Level": "Apprentice A",
+        "Session": "Morning",
+        "Date and Time": "October 12, 2025 09:00 (GMT+2) → 10:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "General Lecture",
+        "Grade Level": "Apprentice A",
+        "Session": "Morning",
+        "Date and Time": "October 12, 2025 10:15 (GMT+2) → 11:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Apprentice A",
+        "Session": "Morning",
+        "Date and Time": "October 19, 2025 09:00 (GMT+2) → 10:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Apprentice A",
+        "Session": "Morning",
+        "Date and Time": "October 19, 2025 10:15 (GMT+2) → 11:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Apprentice A",
+        "Session": "Morning",
+        "Date and Time": "October 26, 2025 09:00 (GMT+1) → 10:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Apprentice A",
+        "Session": "Morning",
+        "Date and Time": "October 26, 2025 10:15 (GMT+1) → 11:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Test Review",
+        "Grade Level": "Apprentice A",
+        "Session": "Morning",
+        "Date and Time": "November 02, 2025 09:00 (GMT+1) → 10:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Test Review",
+        "Grade Level": "Apprentice A",
+        "Session": "Morning",
+        "Date and Time": "November 02, 2025 10:15 (GMT+1) → 11:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Apprentice A",
+        "Session": "Morning",
+        "Date and Time": "November 09, 2025 09:00 (GMT+1) → 10:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Apprentice A",
+        "Session": "Morning",
+        "Date and Time": "November 09, 2025 10:15 (GMT+1) → 11:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Apprentice A",
+        "Session": "Morning",
+        "Date and Time": "November 16, 2025 09:00 (GMT+1) → 10:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Apprentice A",
+        "Session": "Morning",
+        "Date and Time": "November 16, 2025 10:15 (GMT+1) → 11:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Apprentice A",
+        "Session": "Morning",
+        "Date and Time": "November 23, 2025 09:00 (GMT+1) → 10:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Apprentice A",
+        "Session": "Morning",
+        "Date and Time": "November 23, 2025 10:15 (GMT+1) → 11:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Apprentice A",
+        "Session": "Morning",
+        "Date and Time": "November 30, 2025 09:00 (GMT+1) → 10:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Apprentice A",
+        "Session": "Morning",
+        "Date and Time": "November 30, 2025 10:15 (GMT+1) → 11:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Apprentice A",
+        "Session": "Morning",
+        "Date and Time": "December 07, 2025 09:00 (GMT+1) → 10:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Test Review",
+        "Grade Level": "Apprentice A",
+        "Session": "Morning",
+        "Date and Time": "December 07, 2025 10:15 (GMT+1) → 11:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Apprentice A",
+        "Session": "Morning",
+        "Date and Time": "December 14, 2025 09:00 (GMT+1) → 10:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Apprentice A",
+        "Session": "Morning",
+        "Date and Time": "December 14, 2025 10:15 (GMT+1) → 11:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Apprentice A",
+        "Session": "Morning",
+        "Date and Time": "December 21, 2025 09:00 (GMT+1) → 10:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Apprentice A",
+        "Session": "Morning",
+        "Date and Time": "December 21, 2025 10:15 (GMT+1) → 11:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Apprentice A",
+        "Session": "Morning",
+        "Date and Time": "December 28, 2025 09:00 (GMT+1) → 10:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Apprentice A",
+        "Session": "Morning",
+        "Date and Time": "December 28, 2025 10:15 (GMT+1) → 11:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Test Review",
+        "Grade Level": "Apprentice A",
+        "Session": "Morning",
+        "Date and Time": "January 04, 2026 09:00 (GMT+1) → 10:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Apprentice A",
+        "Session": "Morning",
+        "Date and Time": "January 04, 2026 10:15 (GMT+1) → 11:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Apprentice A",
+        "Session": "Morning",
+        "Date and Time": "January 11, 2026 09:00 (GMT+1) → 10:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Apprentice A",
+        "Session": "Morning",
+        "Date and Time": "January 11, 2026 10:15 (GMT+1) → 11:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "General Lecture",
+        "Grade Level": "Apprentice A",
+        "Session": "Morning",
+        "Date and Time": "January 18, 2026 09:00 (GMT+1) → 10:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Apprentice A",
+        "Session": "Morning",
+        "Date and Time": "January 18, 2026 10:15 (GMT+1) → 11:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Apprentice A",
+        "Session": "Morning",
+        "Date and Time": "January 25, 2026 09:00 (GMT+1) → 10:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Apprentice A",
+        "Session": "Morning",
+        "Date and Time": "January 25, 2026 10:15 (GMT+1) → 11:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Apprentice A",
+        "Session": "Morning",
+        "Date and Time": "February 01, 2026 09:00 (GMT+1) → 10:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Apprentice A",
+        "Session": "Morning",
+        "Date and Time": "February 01, 2026 10:15 (GMT+1) → 11:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Apprentice B",
+        "Session": "Evening",
+        "Date and Time": "August 03, 2025 17:00 (GMT+2) → 18:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Apprentice B",
+        "Session": "Evening",
+        "Date and Time": "August 03, 2025 18:15 (GMT+2) → 19:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Apprentice B",
+        "Session": "Evening",
+        "Date and Time": "August 10, 2025 17:00 (GMT+2) → 18:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Apprentice B",
+        "Session": "Evening",
+        "Date and Time": "August 10, 2025 18:15 (GMT+2) → 19:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Apprentice B",
+        "Session": "Evening",
+        "Date and Time": "August 17, 2025 17:00 (GMT+2) → 18:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Apprentice B",
+        "Session": "Evening",
+        "Date and Time": "August 17, 2025 18:15 (GMT+2) → 19:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Apprentice B",
+        "Session": "Evening",
+        "Date and Time": "August 24, 2025 17:00 (GMT+2) → 18:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "General Lecture",
+        "Grade Level": "Apprentice B",
+        "Session": "Evening",
+        "Date and Time": "August 24, 2025 18:15 (GMT+2) → 19:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Apprentice B",
+        "Session": "Evening",
+        "Date and Time": "August 31, 2025 17:00 (GMT+2) → 18:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Apprentice B",
+        "Session": "Evening",
+        "Date and Time": "August 31, 2025 18:15 (GMT+2) → 19:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Apprentice B",
+        "Session": "Evening",
+        "Date and Time": "September 07, 2025 17:00 (GMT+2) → 18:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Apprentice B",
+        "Session": "Evening",
+        "Date and Time": "September 07, 2025 18:15 (GMT+2) → 19:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Apprentice B",
+        "Session": "Evening",
+        "Date and Time": "September 14, 2025 17:00 (GMT+2) → 18:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Apprentice B",
+        "Session": "Evening",
+        "Date and Time": "September 14, 2025 18:15 (GMT+2) → 19:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Apprentice B",
+        "Session": "Evening",
+        "Date and Time": "September 21, 2025 17:00 (GMT+2) → 18:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Apprentice B",
+        "Session": "Evening",
+        "Date and Time": "September 21, 2025 18:15 (GMT+2) → 19:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Apprentice B",
+        "Session": "Evening",
+        "Date and Time": "September 28, 2025 17:00 (GMT+2) → 18:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Test Review",
+        "Grade Level": "Apprentice B",
+        "Session": "Evening",
+        "Date and Time": "September 28, 2025 18:15 (GMT+2) → 19:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "General Lecture",
+        "Grade Level": "Apprentice B",
+        "Session": "Evening",
+        "Date and Time": "October 05, 2025 17:00 (GMT+2) → 18:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Apprentice B",
+        "Session": "Evening",
+        "Date and Time": "October 05, 2025 18:15 (GMT+2) → 19:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Apprentice B",
+        "Session": "Evening",
+        "Date and Time": "October 12, 2025 17:00 (GMT+2) → 18:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Apprentice B",
+        "Session": "Evening",
+        "Date and Time": "October 12, 2025 18:15 (GMT+2) → 19:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Apprentice B",
+        "Session": "Evening",
+        "Date and Time": "October 19, 2025 17:00 (GMT+2) → 18:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Apprentice B",
+        "Session": "Evening",
+        "Date and Time": "October 19, 2025 18:15 (GMT+2) → 19:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Test Review",
+        "Grade Level": "Apprentice B",
+        "Session": "Evening",
+        "Date and Time": "October 26, 2025 17:00 (GMT+1) → 18:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Apprentice B",
+        "Session": "Evening",
+        "Date and Time": "October 26, 2025 18:15 (GMT+1) → 19:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Test Review",
+        "Grade Level": "Apprentice B",
+        "Session": "Evening",
+        "Date and Time": "November 02, 2025 17:00 (GMT+1) → 18:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Apprentice B",
+        "Session": "Evening",
+        "Date and Time": "November 02, 2025 18:15 (GMT+1) → 19:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Apprentice B",
+        "Session": "Evening",
+        "Date and Time": "November 09, 2025 17:00 (GMT+1) → 18:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Apprentice B",
+        "Session": "Evening",
+        "Date and Time": "November 09, 2025 18:15 (GMT+1) → 19:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Apprentice B",
+        "Session": "Evening",
+        "Date and Time": "November 16, 2025 17:00 (GMT+1) → 18:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Apprentice B",
+        "Session": "Evening",
+        "Date and Time": "November 16, 2025 18:15 (GMT+1) → 19:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Apprentice B",
+        "Session": "Evening",
+        "Date and Time": "November 23, 2025 17:00 (GMT+1) → 18:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Apprentice B",
+        "Session": "Evening",
+        "Date and Time": "November 23, 2025 18:15 (GMT+1) → 19:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Test Review",
+        "Grade Level": "Apprentice B",
+        "Session": "Evening",
+        "Date and Time": "November 30, 2025 17:00 (GMT+1) → 18:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Apprentice B",
+        "Session": "Evening",
+        "Date and Time": "November 30, 2025 18:15 (GMT+1) → 19:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Apprentice B",
+        "Session": "Evening",
+        "Date and Time": "December 07, 2025 17:00 (GMT+1) → 18:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Test Review",
+        "Grade Level": "Apprentice B",
+        "Session": "Evening",
+        "Date and Time": "December 07, 2025 18:15 (GMT+1) → 19:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Apprentice B",
+        "Session": "Evening",
+        "Date and Time": "December 14, 2025 17:00 (GMT+1) → 18:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Apprentice B",
+        "Session": "Evening",
+        "Date and Time": "December 14, 2025 18:15 (GMT+1) → 19:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Apprentice B",
+        "Session": "Evening",
+        "Date and Time": "December 21, 2025 17:00 (GMT+1) → 18:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Apprentice B",
+        "Session": "Evening",
+        "Date and Time": "December 21, 2025 18:15 (GMT+1) → 19:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Apprentice B",
+        "Session": "Evening",
+        "Date and Time": "December 28, 2025 17:00 (GMT+1) → 18:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Apprentice B",
+        "Session": "Evening",
+        "Date and Time": "December 28, 2025 18:15 (GMT+1) → 19:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Apprentice B",
+        "Session": "Evening",
+        "Date and Time": "January 04, 2026 17:00 (GMT+1) → 18:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "General Lecture",
+        "Grade Level": "Apprentice B",
+        "Session": "Evening",
+        "Date and Time": "January 04, 2026 18:15 (GMT+1) → 19:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "General Lecture",
+        "Grade Level": "Apprentice B",
+        "Session": "Evening",
+        "Date and Time": "January 11, 2026 17:00 (GMT+1) → 18:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Apprentice B",
+        "Session": "Evening",
+        "Date and Time": "January 11, 2026 18:15 (GMT+1) → 19:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Apprentice B",
+        "Session": "Evening",
+        "Date and Time": "January 18, 2026 17:00 (GMT+1) → 18:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Apprentice B",
+        "Session": "Evening",
+        "Date and Time": "January 18, 2026 18:15 (GMT+1) → 19:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Apprentice B",
+        "Session": "Evening",
+        "Date and Time": "January 25, 2026 17:00 (GMT+1) → 18:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Test Review",
+        "Grade Level": "Apprentice B",
+        "Session": "Evening",
+        "Date and Time": "January 25, 2026 18:15 (GMT+1) → 19:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Apprentice B",
+        "Session": "Evening",
+        "Date and Time": "February 01, 2026 17:00 (GMT+1) → 18:00",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Apprentice B",
+        "Session": "Evening",
+        "Date and Time": "February 01, 2026 18:15 (GMT+1) → 19:15",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Shef A",
+        "Session": "Morning",
+        "Date and Time": "August 03, 2025 11:30 (GMT+2) → 12:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Shef A",
+        "Session": "Morning",
+        "Date and Time": "August 03, 2025 12:45 (GMT+2) → 13:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "General Lecture",
+        "Grade Level": "Shef A",
+        "Session": "Morning",
+        "Date and Time": "August 10, 2025 11:30 (GMT+2) → 12:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Shef A",
+        "Session": "Morning",
+        "Date and Time": "August 10, 2025 12:45 (GMT+2) → 13:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Shef A",
+        "Session": "Morning",
+        "Date and Time": "August 17, 2025 11:30 (GMT+2) → 12:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Shef A",
+        "Session": "Morning",
+        "Date and Time": "August 17, 2025 12:45 (GMT+2) → 13:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Shef A",
+        "Session": "Morning",
+        "Date and Time": "August 24, 2025 11:30 (GMT+2) → 12:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Test Review",
+        "Grade Level": "Shef A",
+        "Session": "Morning",
+        "Date and Time": "August 24, 2025 12:45 (GMT+2) → 13:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Shef A",
+        "Session": "Morning",
+        "Date and Time": "August 31, 2025 11:30 (GMT+2) → 12:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Shef A",
+        "Session": "Morning",
+        "Date and Time": "August 31, 2025 12:45 (GMT+2) → 13:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Shef A",
+        "Session": "Morning",
+        "Date and Time": "September 07, 2025 11:30 (GMT+2) → 12:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Shef A",
+        "Session": "Morning",
+        "Date and Time": "September 07, 2025 12:45 (GMT+2) → 13:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Shef A",
+        "Session": "Morning",
+        "Date and Time": "September 14, 2025 11:30 (GMT+2) → 12:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Test Review",
+        "Grade Level": "Shef A",
+        "Session": "Morning",
+        "Date and Time": "September 14, 2025 12:45 (GMT+2) → 13:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Shef A",
+        "Session": "Morning",
+        "Date and Time": "September 21, 2025 11:30 (GMT+2) → 12:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Test Review",
+        "Grade Level": "Shef A",
+        "Session": "Morning",
+        "Date and Time": "September 21, 2025 12:45 (GMT+2) → 13:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Shef A",
+        "Session": "Morning",
+        "Date and Time": "September 28, 2025 11:30 (GMT+2) → 12:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Shef A",
+        "Session": "Morning",
+        "Date and Time": "September 28, 2025 12:45 (GMT+2) → 13:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Shef A",
+        "Session": "Morning",
+        "Date and Time": "October 05, 2025 11:30 (GMT+2) → 12:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Shef A",
+        "Session": "Morning",
+        "Date and Time": "October 05, 2025 12:45 (GMT+2) → 13:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Shef A",
+        "Session": "Morning",
+        "Date and Time": "October 12, 2025 11:30 (GMT+2) → 12:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Shef A",
+        "Session": "Morning",
+        "Date and Time": "October 12, 2025 12:45 (GMT+2) → 13:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "General Lecture",
+        "Grade Level": "Shef A",
+        "Session": "Morning",
+        "Date and Time": "October 19, 2025 11:30 (GMT+2) → 12:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Shef A",
+        "Session": "Morning",
+        "Date and Time": "October 19, 2025 12:45 (GMT+2) → 13:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Shef A",
+        "Session": "Morning",
+        "Date and Time": "October 26, 2025 11:30 (GMT+1) → 12:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Test Review",
+        "Grade Level": "Shef A",
+        "Session": "Morning",
+        "Date and Time": "October 26, 2025 12:45 (GMT+1) → 13:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Test Review",
+        "Grade Level": "Shef A",
+        "Session": "Morning",
+        "Date and Time": "November 02, 2025 11:30 (GMT+1) → 12:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Shef A",
+        "Session": "Morning",
+        "Date and Time": "November 02, 2025 12:45 (GMT+1) → 13:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Shef A",
+        "Session": "Morning",
+        "Date and Time": "November 09, 2025 11:30 (GMT+1) → 12:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Shef A",
+        "Session": "Morning",
+        "Date and Time": "November 09, 2025 12:45 (GMT+1) → 13:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "General Lecture",
+        "Grade Level": "Shef A",
+        "Session": "Morning",
+        "Date and Time": "November 16, 2025 11:30 (GMT+1) → 12:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Shef A",
+        "Session": "Morning",
+        "Date and Time": "November 16, 2025 12:45 (GMT+1) → 13:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Shef A",
+        "Session": "Morning",
+        "Date and Time": "November 23, 2025 11:30 (GMT+1) → 12:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Shef A",
+        "Session": "Morning",
+        "Date and Time": "November 23, 2025 12:45 (GMT+1) → 13:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Shef A",
+        "Session": "Morning",
+        "Date and Time": "November 30, 2025 11:30 (GMT+1) → 12:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Shef A",
+        "Session": "Morning",
+        "Date and Time": "November 30, 2025 12:45 (GMT+1) → 13:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Shef A",
+        "Session": "Morning",
+        "Date and Time": "December 07, 2025 11:30 (GMT+1) → 12:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "General Lecture",
+        "Grade Level": "Shef A",
+        "Session": "Morning",
+        "Date and Time": "December 07, 2025 12:45 (GMT+1) → 13:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Shef A",
+        "Session": "Morning",
+        "Date and Time": "December 14, 2025 11:30 (GMT+1) → 12:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Shef A",
+        "Session": "Morning",
+        "Date and Time": "December 14, 2025 12:45 (GMT+1) → 13:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Shef A",
+        "Session": "Morning",
+        "Date and Time": "December 21, 2025 11:30 (GMT+1) → 12:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Shef A",
+        "Session": "Morning",
+        "Date and Time": "December 21, 2025 12:45 (GMT+1) → 13:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Shef A",
+        "Session": "Morning",
+        "Date and Time": "December 28, 2025 11:30 (GMT+1) → 12:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Shef A",
+        "Session": "Morning",
+        "Date and Time": "December 28, 2025 12:45 (GMT+1) → 13:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Shef A",
+        "Session": "Morning",
+        "Date and Time": "January 04, 2026 11:30 (GMT+1) → 12:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Shef A",
+        "Session": "Morning",
+        "Date and Time": "January 04, 2026 12:45 (GMT+1) → 13:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Shef A",
+        "Session": "Morning",
+        "Date and Time": "January 11, 2026 11:30 (GMT+1) → 12:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Shef A",
+        "Session": "Morning",
+        "Date and Time": "January 11, 2026 12:45 (GMT+1) → 13:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Shef A",
+        "Session": "Morning",
+        "Date and Time": "January 18, 2026 11:30 (GMT+1) → 12:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Test Review",
+        "Grade Level": "Shef A",
+        "Session": "Morning",
+        "Date and Time": "January 18, 2026 12:45 (GMT+1) → 13:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Shef A",
+        "Session": "Morning",
+        "Date and Time": "January 25, 2026 11:30 (GMT+1) → 12:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Shef A",
+        "Session": "Morning",
+        "Date and Time": "January 25, 2026 12:45 (GMT+1) → 13:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Shef A",
+        "Session": "Morning",
+        "Date and Time": "February 01, 2026 11:30 (GMT+1) → 12:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Shef A",
+        "Session": "Morning",
+        "Date and Time": "February 01, 2026 12:45 (GMT+1) → 13:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Shef B",
+        "Session": "Evening",
+        "Date and Time": "August 03, 2025 19:30 (GMT+2) → 20:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Shef B",
+        "Session": "Evening",
+        "Date and Time": "August 03, 2025 20:45 (GMT+2) → 21:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Shef B",
+        "Session": "Evening",
+        "Date and Time": "August 10, 2025 19:30 (GMT+2) → 20:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Shef B",
+        "Session": "Evening",
+        "Date and Time": "August 10, 2025 20:45 (GMT+2) → 21:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Shef B",
+        "Session": "Evening",
+        "Date and Time": "August 17, 2025 19:30 (GMT+2) → 20:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "General Lecture",
+        "Grade Level": "Shef B",
+        "Session": "Evening",
+        "Date and Time": "August 17, 2025 20:45 (GMT+2) → 21:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Shef B",
+        "Session": "Evening",
+        "Date and Time": "August 24, 2025 19:30 (GMT+2) → 20:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Shef B",
+        "Session": "Evening",
+        "Date and Time": "August 24, 2025 20:45 (GMT+2) → 21:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Shef B",
+        "Session": "Evening",
+        "Date and Time": "August 31, 2025 19:30 (GMT+2) → 20:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Shef B",
+        "Session": "Evening",
+        "Date and Time": "August 31, 2025 20:45 (GMT+2) → 21:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Shef B",
+        "Session": "Evening",
+        "Date and Time": "September 07, 2025 19:30 (GMT+2) → 20:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Shef B",
+        "Session": "Evening",
+        "Date and Time": "September 07, 2025 20:45 (GMT+2) → 21:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Shef B",
+        "Session": "Evening",
+        "Date and Time": "September 14, 2025 19:30 (GMT+2) → 20:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Shef B",
+        "Session": "Evening",
+        "Date and Time": "September 14, 2025 20:45 (GMT+2) → 21:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Shef B",
+        "Session": "Evening",
+        "Date and Time": "September 21, 2025 19:30 (GMT+2) → 20:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Shef B",
+        "Session": "Evening",
+        "Date and Time": "September 21, 2025 20:45 (GMT+2) → 21:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Shef B",
+        "Session": "Evening",
+        "Date and Time": "September 28, 2025 19:30 (GMT+2) → 20:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Shef B",
+        "Session": "Evening",
+        "Date and Time": "September 28, 2025 20:45 (GMT+2) → 21:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Shef B",
+        "Session": "Evening",
+        "Date and Time": "October 05, 2025 19:30 (GMT+2) → 20:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Shef B",
+        "Session": "Evening",
+        "Date and Time": "October 05, 2025 20:45 (GMT+2) → 21:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Shef B",
+        "Session": "Evening",
+        "Date and Time": "October 12, 2025 19:30 (GMT+2) → 20:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Shef B",
+        "Session": "Evening",
+        "Date and Time": "October 12, 2025 20:45 (GMT+2) → 21:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Shef B",
+        "Session": "Evening",
+        "Date and Time": "October 19, 2025 19:30 (GMT+2) → 20:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Shef B",
+        "Session": "Evening",
+        "Date and Time": "October 19, 2025 20:45 (GMT+2) → 21:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Shef B",
+        "Session": "Evening",
+        "Date and Time": "October 26, 2025 19:30 (GMT+1) → 20:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Shef B",
+        "Session": "Evening",
+        "Date and Time": "October 26, 2025 20:45 (GMT+1) → 21:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Shef B",
+        "Session": "Evening",
+        "Date and Time": "November 02, 2025 19:30 (GMT+1) → 20:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Shef B",
+        "Session": "Evening",
+        "Date and Time": "November 02, 2025 20:45 (GMT+1) → 21:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Shef B",
+        "Session": "Evening",
+        "Date and Time": "November 09, 2025 19:30 (GMT+1) → 20:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Shef B",
+        "Session": "Evening",
+        "Date and Time": "November 09, 2025 20:45 (GMT+1) → 21:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Shef B",
+        "Session": "Evening",
+        "Date and Time": "November 16, 2025 19:30 (GMT+1) → 20:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "General Lecture",
+        "Grade Level": "Shef B",
+        "Session": "Evening",
+        "Date and Time": "November 16, 2025 20:45 (GMT+1) → 21:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "General Lecture",
+        "Grade Level": "Shef B",
+        "Session": "Evening",
+        "Date and Time": "November 23, 2025 19:30 (GMT+1) → 20:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Shef B",
+        "Session": "Evening",
+        "Date and Time": "November 23, 2025 20:45 (GMT+1) → 21:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Shef B",
+        "Session": "Evening",
+        "Date and Time": "November 30, 2025 19:30 (GMT+1) → 20:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Shef B",
+        "Session": "Evening",
+        "Date and Time": "November 30, 2025 20:45 (GMT+1) → 21:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Test Review",
+        "Grade Level": "Shef B",
+        "Session": "Evening",
+        "Date and Time": "December 07, 2025 19:30 (GMT+1) → 20:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Test Review",
+        "Grade Level": "Shef B",
+        "Session": "Evening",
+        "Date and Time": "December 07, 2025 20:45 (GMT+1) → 21:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Test Review",
+        "Grade Level": "Shef B",
+        "Session": "Evening",
+        "Date and Time": "December 14, 2025 19:30 (GMT+1) → 20:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Test Review",
+        "Grade Level": "Shef B",
+        "Session": "Evening",
+        "Date and Time": "December 14, 2025 20:45 (GMT+1) → 21:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Shef B",
+        "Session": "Evening",
+        "Date and Time": "December 21, 2025 19:30 (GMT+1) → 20:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "General Lecture",
+        "Grade Level": "Shef B",
+        "Session": "Evening",
+        "Date and Time": "December 21, 2025 20:45 (GMT+1) → 21:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Shef B",
+        "Session": "Evening",
+        "Date and Time": "December 28, 2025 19:30 (GMT+1) → 20:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Shef B",
+        "Session": "Evening",
+        "Date and Time": "December 28, 2025 20:45 (GMT+1) → 21:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Test Review",
+        "Grade Level": "Shef B",
+        "Session": "Evening",
+        "Date and Time": "January 04, 2026 19:30 (GMT+1) → 20:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Geometry",
+        "Grade Level": "Shef B",
+        "Session": "Evening",
+        "Date and Time": "January 04, 2026 20:45 (GMT+1) → 21:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Test Review",
+        "Grade Level": "Shef B",
+        "Session": "Evening",
+        "Date and Time": "January 11, 2026 19:30 (GMT+1) → 20:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Shef B",
+        "Session": "Evening",
+        "Date and Time": "January 11, 2026 20:45 (GMT+1) → 21:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Shef B",
+        "Session": "Evening",
+        "Date and Time": "January 18, 2026 19:30 (GMT+1) → 20:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Shef B",
+        "Session": "Evening",
+        "Date and Time": "January 18, 2026 20:45 (GMT+1) → 21:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Shef B",
+        "Session": "Evening",
+        "Date and Time": "January 25, 2026 19:30 (GMT+1) → 20:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Combinatorics",
+        "Grade Level": "Shef B",
+        "Session": "Evening",
+        "Date and Time": "January 25, 2026 20:45 (GMT+1) → 21:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Algebra",
+        "Grade Level": "Shef B",
+        "Session": "Evening",
+        "Date and Time": "February 01, 2026 19:30 (GMT+1) → 20:30",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    },
+    {
+        "Lesson Title": "TBD lecture that will appear later",
+        "Subject": "Number Theory",
+        "Grade Level": "Shef B",
+        "Session": "Evening",
+        "Date and Time": "February 01, 2026 20:45 (GMT+1) → 21:45",
+        "Objectives": "You will have them filled out after we name all the lectures for all the classes",
+        "Lesson Status": "Not Started",
+        "Teaching Method": "Lecture"
+    }
+]
