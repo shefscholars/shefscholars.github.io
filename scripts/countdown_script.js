@@ -31,7 +31,8 @@ function startCountdown(targetDate, elementId) {
   const discountEndDate = Date.UTC(2025, 5, 4, 11, 59, 59);
 //   const discountEndDate = new Date(Date.UTC(2025, 0, 27, 23, 59, 59));
   // const applicationCloseDate = new Date("January 30, 2025 23:59:59 UTC -12").getTime()
-  const applicationCloseDate = Date.UTC(2025, 6, 18, 11, 59, 59); // January 31, 2025, 11:59:59 UTC (handles UTC-12)
+
+  const applicationCloseDate = Date.UTC(2025, 6, 18, 11, 59, 59); // July 18, 2025, 11:59:59 UTC (handles UTC-12)
   
   // Start the countdowns
   startCountdown(discountEndDate, "discountTimer");
