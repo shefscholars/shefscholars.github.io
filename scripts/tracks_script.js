@@ -10,14 +10,14 @@ const tracks = [
   ];
   
   const spots = {
-    "Beginner A": 13,
-    "Apprentice A": 12,
-    "Machine A": 12,
-    "Shef A": 11,
-    "Beginner B": 13,
-    "Apprentice B": 12,
-    "Machine B": 12,
-    "Shef B": 11
+    "Beginner A": 25,
+    "Apprentice A": 25,
+    "Machine A": 25,
+    "Shef A": 25,
+    "Beginner B": 25,
+    "Apprentice B": 25,
+    "Machine B": 25,
+    "Shef B": 25
   };
 
 
@@ -58,7 +58,7 @@ const tracks = [
           From ${start} – ${end} Sarajevo time on ${day}.
         </p>
         <div class="spots-info">Spots left: ${spots[track.name]}</div>
-        <button class="track-btn primary" onclick="window.open('https://forms.gle/BkMETmhiHcPYCv716', '_blank')" ${
+        <button class="track-btn primary" onclick="window.open('https://forms.gle/RCAQB7QkgS92LWCn6', '_blank')" ${
           spots[track.name] === 0 ? "disabled" : ""
         }>
           Reserve Spot

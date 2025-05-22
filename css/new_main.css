@@ -625,6 +625,67 @@ body {
 
 
 
+/* 14 day guarantee */
+
+
+        /* Main container styling */
+        .guarantee-card {
+            margin-top: 3rem; /* mt-12 */
+            background-color: #ffffff; /* bg-white */
+            border-width: 1px; /* border */
+            border-style: solid; /* Added for border to be visible */
+            border-color: #bee3f8; /* border-blue-200 */
+            border-radius: 0.75rem; /* rounded-xl */
+            padding: 1.5rem; /* p-6 */
+            box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05); /* shadow-sm */
+        }
+
+        .guarantee-card-title {
+            font-size: 1.5rem; /* text-2xl */
+            line-height: 2rem; /* text-2xl */
+            font-weight: 700; /* font-bold */
+            text-align: center; /* text-center */
+            margin-bottom: 1rem; /* mb-4 */
+        }
+
+        /* .guarantee-card-content {
+            /* space-y-4 equivalent for direct children paragraphs */
+        /* }  */
+        
+        */
+
+        .guarantee-card-content > p + p {
+             margin-top: 1rem; /* space-y-4 */
+        }
+
+
+        .guarantee-card-text {
+            color: #4a5568; /* text-gray-700 */
+        }
+
+        .guarantee-card-text .highlight {
+            font-weight: 600; /* font-semibold */
+            text-decoration: underline; /* underline */
+        }
+
+        .guarantee-card-link {
+            color: #2563eb; /* text-blue-600 */
+            text-decoration: none; /* Remove default underline for links if not intended generally */
+        }
+
+        .guarantee-card-link:hover {
+            text-decoration: underline; /* hover:underline */
+        }
+
+
+
+
+
+
+
+
+
+
 /* CAROUSEL STYLING */
 
 /* Instructors Section Styling */

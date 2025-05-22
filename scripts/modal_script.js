@@ -119,44 +119,8 @@ const schedule = [
     } else {
         content.innerHTML = `<p>No lessons available for ${gradeLevel} level.</p>`;
     }
-    // // Generate schedule for each day
-    // for (let day = 1; day <= 6; day++) {
-    //   const dayItems = schedule.filter(item => item.day === day);
-  
-    //   if (dayItems.length > 0) {
-    //     const dayElement = document.createElement("div");
-    //     dayElement.className = "schedule-day";
-  
-    //     const dayTitle = document.createElement("h3");
-    //     dayTitle.textContent = `Day ${day}`;
-    //     dayElement.appendChild(dayTitle);
-  
-    //     dayItems.forEach(item => {
-    //       const itemElement = document.createElement("div");
-    //       itemElement.className = "schedule-item";
-  
-    //       const itemName = document.createElement("h4");
-    //       itemName.textContent = item.name;
-    //       itemElement.appendChild(itemName);
-  
-    //       const itemTime = document.createElement("p");
-    //       itemTime.textContent = item.time;
-    //       itemElement.appendChild(itemTime);
-  
-    //       if (item.description) {
-    //         const itemDescription = document.createElement("p");
-    //         itemDescription.textContent = item.description;
-    //         itemDescription.className = "description";
-    //         itemElement.appendChild(itemDescription);
-    //       }
-  
-    //       dayElement.appendChild(itemElement);
-    //     });
-  
-    //     content.appendChild(dayElement);
-    //   }
-    // }
-  
+
+    
     modal.style.display = "flex"; // Show modal
   }
   
