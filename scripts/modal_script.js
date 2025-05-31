@@ -12,7 +12,7 @@ const schedule = [
   let lessonPlans = [];
 
   // Fetch the lesson plans data
-  fetch("/data/Lesson_schedule_v3.json")
+  fetch("/data/Lesson_schedule_v4.json")
     .then(response => response.json())
     .then(data => {
       lessonPlans = data;
