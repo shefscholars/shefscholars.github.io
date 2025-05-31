@@ -265,6 +265,24 @@ body {
     }
   }
 
+
+
+
+ @media (max-width: 768px) {
+    .hero-right {
+      display: none;
+    }
+
+    .hero-section {
+      margin-bottom: 2rem; /* Add margin to the bottom of the hero section */;
+    }
+
+  }
+
+
+
+
+
 /* Countdown timer container */
 .countdown-timers {
   display: grid;
@@ -687,6 +705,10 @@ body {
 
 
 /* CAROUSEL STYLING */
+
+
+
+
 
 /* Instructors Section Styling */
 .instructors-section {
