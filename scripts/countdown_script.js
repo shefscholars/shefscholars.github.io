@@ -28,7 +28,7 @@ function startCountdown(targetDate, elementId) {
   
   // Set target dates
   // const discountEndDate = new Date("January 27, 2025 23:59:59 UTC -12").getTime();
-  const discountEndDate = Date.UTC(2025, 5, 4, 11, 59, 59);
+  const discountEndDate = Date.UTC(2025, 6, 8, 11, 59, 59);
 //   const discountEndDate = new Date(Date.UTC(2025, 0, 27, 23, 59, 59));
   // const applicationCloseDate = new Date("January 30, 2025 23:59:59 UTC -12").getTime()
 
