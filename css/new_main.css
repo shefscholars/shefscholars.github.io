@@ -9,6 +9,9 @@ body {
     font-family: 'Lato', 'Verdana', 'Arial', sans-serif; */
     font-family: 'Inter', 'Roboto', 'Arial', 'Helvetica', sans-serif;
 }
+
+
+
   
   /* Layout Container to Ensure Full Height and Column Layout */
   .layout-container {
@@ -25,10 +28,15 @@ body {
     height: 56px; /* Equivalent to h-14 (14 * 4px = 56px) */
   }
   
+
+
+
+  
   @media (min-width: 1024px) { /* lg:px-6 */
     .header {
       padding: 0 24px;
     }
+
   }
   
   /* Title text */
@@ -41,17 +49,41 @@ body {
   
   /* Navigation Styling */
   .nav {
-    margin-left: auto; /* Equivalent to ml-auto */
+    /* margin: auto; Equivalent to ml-auto */
     display: flex;
     gap: 16px; /* Equivalent to gap-4 */
   }
+
+ 
   
+  a.logo {
+      display: none;
+  }
+
+
   @media (min-width: 640px) { /* sm:gap-6 */
     .nav {
       gap: 24px;
     }
+
+    a.logo {
+      display:initial
+    }
+
+    .nav {
+          margin-left: auto; /* Equivalent to ml-auto */
+
+    }
   }
   
+ @media (max-width: 480px) {
+
+  .nav {
+    margin: auto
+  }
+  
+}
+
   .nav-link {
     font-size: 0.875rem; /* Equivalent to text-sm */
     font-weight: 500; /* Equivalent to font-medium */
@@ -64,6 +96,9 @@ body {
     text-underline-offset: 4px; /* Equivalent to underline-offset-4 */
   }
   
+
+
+
 
 /* Main content flex container */
 .main-content {
@@ -277,6 +312,11 @@ body {
       margin-bottom: 2rem; /* Add margin to the bottom of the hero section */;
     }
 
+
+    .hero-section>.content-container {
+      max-width: 350px;
+    }
+
   }
 
 
@@ -313,6 +353,14 @@ body {
   font-weight: bold;
   color: #1f2937; /* Dark gray */
 }
+
+
+
+
+
+
+
+
 
 
 
@@ -467,9 +515,48 @@ body {
 
 
 
+@media (max-width:480px) {
+  section {
+    padding: auto 2rem;
+    width: 100vi
+  }
+  body {
+    margin: 0px;
+  }
+}
 
 
 
+
+
+  
+
+ @media (max-width: 480px){
+
+    body {
+      width: unset;
+
+    }
+    .content-container {
+      
+      
+      margin: auto;
+      padding-left: 4px;
+      padding-right: 4px;
+      max-width: 380px;
+      width: inherit;
+    }
+
+    p.hero-description {
+      max-width: 360px;
+      /* margin: auto; */
+    }
+
+    .countdown-timers {
+      max-width: 360px;
+      margin: 2rem auto;
+    }
+  }
 
 
 
@@ -643,6 +730,23 @@ body {
 
 
 
+  @media (max-width:480px) {
+    .experience-content-container {
+      width: unset;
+    }
+
+
+
+    #pricing>.content-container {
+      width: unset;
+
+      margin: auto;
+    }
+  }
+
+
+
+
 /* 14 day guarantee */
 
 
@@ -702,6 +806,14 @@ body {
 
 
 
+
+  @media (max-width:480px) {
+    .guarantee-card-text {
+      line-height: 1.5rem;
+    }
+  }
+
+  
 
 
 
@@ -1002,8 +1114,29 @@ body {
 
 
 
+/* Addition to mobile to make it look centered */
+
+  @media (max-width:480px) {
+    .carousel-container {
+      width: unset;
+    }
 
 
+    .instructors-section {
+      width:100vi;
+      padding-left: 0px;
+      padding-right: 0px;
+    }
+
+    .prev-btn {
+      left: 0rem
+    }
+
+    .next-btn {
+      right: 0rem
+    }
+
+  }
 
 
 
@@ -1296,6 +1429,82 @@ body {
 
 
 
+  /* Modal styling for mobile */
+  @media (max-width:480px) {
+
+    .modal {
+      justify-content: center;
+      max-width: 100vi;
+    }
+    
+    
+    .modal-content {
+      max-width: 90vi;
+      padding: 16px; /* Reduced padding for mobile */
+      /* height: auto; Allow height to adjust based on content */
+    }
+
+    #modal-title {
+      font-size: 1.25rem; /* Smaller title for mobile */
+      margin-bottom: 8px; /* Add some margin for mobile */
+    }
+
+
+    .modal-description {
+      font-size: 0.875rem; /* Smaller description for mobile */
+      line-height: 1.25rem;
+    }
+
+    .schedule-day h3 {
+      font-size: 1rem; /* Smaller day title for mobile */
+    }
+    
+    .schedule-item h4 {
+      font-size: 0.875rem; /* Smaller item title for mobile */
+    }
+    .schedule-item p {
+      font-size: 0.75rem; /* Smaller description for mobile */
+    }
+    .pdf-link {
+      font-size: 0.75rem; /* Smaller link text for mobile */
+      padding: 4px 8px; /* Smaller padding for mobile */
+    }
+
+
+
+      
+  .modal-header .close-btn {
+      padding-bottom: 40px;
+  }
+
+
+
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   /* Testimonials Section Styling */
 .testimonials-section {
     width: 100%;
@@ -1401,8 +1610,9 @@ body {
 /* FAQ Section Styling */
 .faq-section {
   width: 100%;
-  padding: 48px 16px; /* py-12 px-4 */
+  padding: 48px 8px; /* py-12 px-4 */
   background-color: #fff;
+  margin: auto;
 }
 
 @media (min-width: 768px) { /* md:py-24 px-6 */
@@ -1466,6 +1676,29 @@ body {
 .accordion-item.open .accordion-content {
   padding: 16px; /* Add padding when expanded */
 }
+
+
+
+
+
+/* FAQ SECTION FOR MOBILE */
+
+
+
+  @media (max-width:480px) {
+    #faq {
+      padding-left: 0px;
+      padding-right: 0px;
+    }
+  }
+
+
+
+
+
+
+
+
 
 
 
@@ -1573,6 +1806,10 @@ body {
 
 
 
+
+
+
+  
 
 
 

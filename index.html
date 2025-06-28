@@ -41,7 +41,11 @@
                   <div class="hero-left">
                     <div class="hero-info">
                       <div class="badge">Shef Scholars produced 6 IMO contestants</div>
-                      <h1 class="hero-title">Join the <br> Shef Scholars <br> Competitive Math Academy</h1>
+
+                      <!-- <h1 class="hero-title">Win your next <br>math competition <br> by becoming a Shef Scholar</h1> -->
+                      <h1 class="hero-title">Win your next <br>math competition <br> by learning from the Shef</h1>
+
+                      <!-- <h1 class="hero-title">Join the <br> Shef Scholars <br> Competitive Math Academy</h1> -->
                       <p class="hero-description">
                         Learn how to <em>think</em> when solving math problems. Attend live lectures held by 
                         former competitors, do problem sets, learn problem solving techniques, and meet mathlethes from around the world.
@@ -49,7 +53,7 @@
                     </div>
                     <div class="hero-buttons">
                         
-                      <button class="btn" onclick="window.open('https://forms.gle/RCAQB7QkgS92LWCn6', '_blank')" >Apply now!</button>
+                      <button class="btn main-google-form-link" onclick="window.open('#', '_blank')" >Apply now!</button>
                       <button class="btn btn-outline" onclick="scrollToSection()">Learn More</button>
                     </div>
                   </div>
@@ -97,7 +101,7 @@
                         <h3 class="pricing-title">Regular</h3>
                         <div class="pricing-price">
                           <span class="original-price">$700</span>
-                          <span class="discounted-price">$240</span>
+                          <span class="discounted-price">$480</span>
                         </div>
 
                         <p class="apply-by">Apply with our biggest fans for over 65% off</p>
@@ -132,7 +136,7 @@
                           </li>
 
                         </ul>
-                        <button class="pricing-button" onclick="window.open('https://forms.gle/RCAQB7QkgS92LWCn6', '_blank')">Select Regular</button>
+                        <button class="pricing-button main-google-form-link" onclick="window.open('https://forms.gle/RCAQB7QkgS92LWCn6', '_blank')">Select Regular</button>
                       </div>
                     </div>
                     
@@ -143,7 +147,7 @@
                         <h3 class="pricing-title">Accountability</h3>
                         <div class="pricing-price">
                           <span class="original-price">$2700</span>
-                          <span class="discounted-price">$1800</span>
+                          <span class="discounted-price">$2100</span>
                         </div>
                         <p class="apply-by">10 spots remaining</p>
                         <ul class="pricing-features">
@@ -178,7 +182,7 @@
                             <span class="check-icon">✔</span> Bonus "The Math Mindset" talks*
                           </li>
                         </ul>
-                        <button class="pricing-button premium-button" onclick="window.open('https://forms.gle/RCAQB7QkgS92LWCn6', '_blank')">Select Accountability</button>
+                        <button class="pricing-button premium-button main-google-form-link" onclick="window.open('https://forms.gle/RCAQB7QkgS92LWCn6', '_blank')">Select Accountability</button>
                       </div>
                     </div>
 
@@ -191,7 +195,7 @@
                         <h3 class="pricing-title">Premium</h3>
                         <div class="pricing-price">
                           <span class="original-price">$6000</span>
-                          <span class="discounted-price">$4000</span>
+                          <span class="discounted-price">$5000</span>
                         </div>
                         <p class="apply-by">4 spots remaining</p>
                         <ul class="pricing-features">
@@ -229,7 +233,7 @@
                             <span class="check-icon">✔</span> Bonus "The Math Mindset" talks*
                           </li>
                         </ul>
-                        <button class="pricing-button premium-button" onclick="window.open('https://forms.gle/RCAQB7QkgS92LWCn6', '_blank')">Select Premium</button>
+                        <button class="pricing-button premium-button main-google-form-link" onclick="window.open('https://forms.gle/RCAQB7QkgS92LWCn6', '_blank')">Select Premium</button>
                       </div>
                     </div>
 
@@ -310,8 +314,8 @@
                               Brown University Computer Science class of 21.5,
                               former graduate fellow at the 
                               <a href="https://algo-cancer.github.io/team/" target="_blank">Cancer Data Science Lab</a> at the 
-                              National Institutes of Health in Bethesda, Maryland. Currently
-                              a <a href="https://www.schwarzmanscholars.org/scholars/?y=2025#zlatko-salko-lagumdzija">Schwarzman Scholar</a> at Tsinghua University in Beijing, China.
+                              National Institutes of Health in Bethesda, Maryland. A <a href="https://www.schwarzmanscholars.org/scholars/?y=2025#zlatko-salko-lagumdzija">Schwarzman Scholar</a> graduate from Tsinghua University in Beijing, China.
+                              Will be teaching over 20 classes for each group.
                             </p>
                           </div>
                         </div>
@@ -675,13 +679,13 @@
                 <div class="content-container">
                   <div class="cta-content">
                     <div class="cta-text">
-                      <h2 class="cta-title">Ready to Join the First Shef Scholars Winter Camp?</h2>
+                      <h2 class="cta-title">Ready to Join the Shef Scholars Competitive Math Academy?</h2>
                       <p class="cta-description">
                         Don't miss this opportunity to accelerate your math skills and join a community of exceptional young
                         mathematicians.
                       </p>
                     </div>
-                    <button class="cta-button" onclick="window.open('https://forms.gle/RCAQB7QkgS92LWCn6', '_blank')">
+                    <button class="cta-button main-google-form-link" onclick="window.open('https://forms.gle/RCAQB7QkgS92LWCn6', '_blank')">
                       Apply Now
                       <span class="chevron-icon">→</span>
                     </button>
@@ -752,6 +756,28 @@
         }
       }
     </script>
+
+
+    <script>
+
+        // 1. Define the Google Forms link in a JavaScript variable
+        const googleFormUrl = "https://forms.gle/ASQg7WPSheHbGgkY8"; // Use your actual form link here!
+
+        // 2. Get ALL buttons with the specific class
+        const formButtons = document.querySelectorAll(".main-google-form-link");
+
+        // 3. Loop through each button and attach an event listener
+        formButtons.forEach(button => {
+            // Remove any existing inline onclick to prevent conflicts (good practice)
+            button.removeAttribute('onclick'); 
+            
+            // Add a click event listener
+            button.addEventListener('click', () => {
+                window.open(googleFormUrl, '_blank'); // Open the form link in a new tab
+            });
+        });
+    </script>
+
 
     <!-- <script>  
         // return 0;
