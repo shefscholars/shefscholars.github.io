@@ -9,6 +9,9 @@ body {
     font-family: 'Lato', 'Verdana', 'Arial', sans-serif; */
     font-family: 'Inter', 'Roboto', 'Arial', 'Helvetica', sans-serif;
 }
+
+
+
   
   /* Layout Container to Ensure Full Height and Column Layout */
   .layout-container {
@@ -25,10 +28,15 @@ body {
     height: 56px; /* Equivalent to h-14 (14 * 4px = 56px) */
   }
   
+
+
+
+  
   @media (min-width: 1024px) { /* lg:px-6 */
     .header {
       padding: 0 24px;
     }
+
   }
   
   /* Title text */
@@ -41,17 +49,41 @@ body {
   
   /* Navigation Styling */
   .nav {
-    margin-left: auto; /* Equivalent to ml-auto */
+    /* margin: auto; Equivalent to ml-auto */
     display: flex;
     gap: 16px; /* Equivalent to gap-4 */
   }
+
+ 
   
+  a.logo {
+      display: none;
+  }
+
+
   @media (min-width: 640px) { /* sm:gap-6 */
     .nav {
       gap: 24px;
     }
+
+    a.logo {
+      display:initial
+    }
+
+    .nav {
+          margin-left: auto; /* Equivalent to ml-auto */
+
+    }
   }
   
+ @media (max-width: 480px) {
+
+  .nav {
+    margin: auto
+  }
+  
+}
+
   .nav-link {
     font-size: 0.875rem; /* Equivalent to text-sm */
     font-weight: 500; /* Equivalent to font-medium */
@@ -64,6 +96,9 @@ body {
     text-underline-offset: 4px; /* Equivalent to underline-offset-4 */
   }
   
+
+
+
 
 /* Main content flex container */
 .main-content {
@@ -277,6 +312,11 @@ body {
       margin-bottom: 2rem; /* Add margin to the bottom of the hero section */;
     }
 
+
+    .hero-section>.content-container {
+      max-width: 350px;
+    }
+
   }
 
 
@@ -313,6 +353,14 @@ body {
   font-weight: bold;
   color: #1f2937; /* Dark gray */
 }
+
+
+
+
+
+
+
+
 
 
 
@@ -467,9 +515,48 @@ body {
 
 
 
+@media (max-width:480px) {
+  section {
+    padding: auto 2rem;
+    width: 100vi
+  }
+  body {
+    margin: 0px;
+  }
+}
 
 
 
+
+
+  
+
+ @media (max-width: 480px){
+
+    body {
+      width: unset;
+
+    }
+    .content-container {
+      
+      
+      margin: auto;
+      padding-left: 4px;
+      padding-right: 4px;
+      max-width: 380px;
+      width: inherit;
+    }
+
+    p.hero-description {
+      max-width: 360px;
+      /* margin: auto; */
+    }
+
+    .countdown-timers {
+      max-width: 360px;
+      margin: 2rem auto;
+    }
+  }
 
 
 
@@ -643,6 +730,23 @@ body {
 
 
 
+  @media (max-width:480px) {
+    .experience-content-container {
+      width: unset;
+    }
+
+
+
+    #pricing>.content-container {
+      width: unset;
+
+      margin: auto;
+    }
+  }
+
+
+
+
 /* 14 day guarantee */
 
 
@@ -703,10 +807,192 @@ body {
 
 
 
+  @media (max-width:480px) {
+    .guarantee-card-text {
+      line-height: 1.5rem;
+    }
+  }
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* --- Start of Suggested CSS Updates for Carousel --- */
+
+/* Instructors Section (already in your file, ensure padding is suitable) */
+.instructors-section {
+    width: 100%;
+    padding: 48px 16px; /* py-12 px-4 - adjust if buttons need more space */
+    background-color: #f9fafb; /* A light gray, similar to what a modern UI might use */
+}
+
+/* Carousel Container (main positioning context for buttons) */
+.carousel-container {
+    position: relative;
+    display: flex; /*  This is in your existing CSS, fine for centering buttons if they were not absolute */
+    align-items: center;
+    /* Add padding if buttons are to be inside the container's visual edge but outside wrapper */
+    /* For example: padding: 0 40px; if buttons are 40px wide and you want them inside */
+}
+
+/* Carousel Wrapper (the viewport) */
+.carousel-wrapper {
+    overflow: hidden;
+    width: 100%;
+}
+
+/* Carousel (the track that moves) */
+.carousel {
+    display: flex;
+    transition: transform 0.3s ease-in-out; /* Your existing transition is fine */
+}
+
+/* Carousel Item (the slides) */
+.carousel-item {
+    flex-shrink: 0; /* Changed from flex: 0 0 100% to just flex-shrink for clarity with width */
+    width: 100%;    /* Explicit width for base */
+    min-width: 0;   /* Important for flex items that might overflow */
+    padding: 0 8px; /* This provides a small gap between cards (e.g., pl-4 from React means ~16px total gap) */
+                    /* Your existing `padding: 16px;` might be too large if card itself has padding */
+    box-sizing: border-box;
+}
+
+/* Responsive Slide Widths (these should correctly reflect the React component's flex basis) */
+@media (min-width: 768px) { /* md: */
+    .carousel-item {
+        width: 50%;
+    }
+}
+
+@media (min-width: 1024px) { /* lg: */
+    .carousel-item {
+        width: 33.3333%;
+    }
+}
+
+/* Instructor Card */
+.instructor-card {
+    background: white; /* Changed from #f9f9f9 */
+    border-radius: 0.5rem; /* 8px, looks like your existing one is fine */
+    padding: 1.5rem; /* 24px, matches p-6. Your existing is good. */
+    /* A common Tailwind-like shadow: */
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+    text-align: left; /* Changed from center to match typical card UI */
+    height: 100%; /* Ensures cards in a row take up same height */
+    display: flex; /* Added to help with equal height and bio flex-grow */
+    flex-direction: column; /* Added */
+}
+
+/* Instructor Image */
+.instructor-image {
+    width: 100%;
+    height: 16rem; /* Approx h-64 from React (256px). IMPORTANT CHANGE from height:auto */
+    object-fit: cover; /* Added to ensure image covers space without distortion */
+    border-radius: 0.5rem; /* Your existing is fine (8px) */
+    margin-bottom: 1rem; /* Your existing is fine (16px) */
+}
+
+/* Instructor Name */
+.instructor-name {
+    font-size: 1.25rem; /* text-xl. Your existing is fine. */
+    font-weight: 700; /* font-bold. Your existing is fine. */
+    margin-bottom: 0.5rem; /* mb-2. Your existing is fine. */
+    color: #111827; /* Darker text, like Tailwind's gray-900 */
+}
+
+/* Instructor Bio */
+.instructor-bio {
+    font-size: 1rem; /* Your existing is fine. */
+    color: #4B5563; /* text-gray-600. Updated from #555 */
+    line-height: 1.5;
+    flex-grow: 1; /* Added: Makes bio expand to fill space, useful for card equal height */
+}
+
+.instructor-bio a { /* Assuming links within bio should be styled */
+    color: #2563eb; /* Standard blue link color */
+    text-decoration: underline;
+}
+
+.instructor-bio a:hover {
+    color: #1d4ed8; /* Darker blue on hover */
+}
+
+
+/* Carousel Buttons */
+.carousel-btn {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: white; /* Changed from #2563eb */
+    color: #374151; /* text-gray-700. For the arrow character */
+    border: 1px solid #d1d5db; /* border-gray-300. Outline variant */
+    border-radius: 50%; /* Your existing is fine */
+    width: 2.5rem; /* 40px. Your existing is fine */
+    height: 2.5rem; /* 40px. Your existing is fine */
+    font-size: 1rem; /* Adjusted for better icon appearance if using chevrons */
+    cursor: pointer;
+    z-index: 10;
+    display: flex; /* To center icon if using SVG later */
+    align-items: center; /* To center icon */
+    justify-content: center; /* To center icon */
+    box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06); /* Slight shadow */
+}
+
+.carousel-btn:hover {
+    background: #f3f4f6; /* Tailwind gray-100 for hover */
+    border-color: #9ca3af; /* Tailwind gray-400 for hover */
+}
+
+.carousel-btn:disabled { /* If your JS adds disabled attribute */
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
+/* Positioning the buttons slightly inset from the carousel-wrapper edges */
+/* This assumes .carousel-container does NOT have horizontal padding */
+/* and buttons are siblings of .carousel-wrapper */
+.prev-btn {
+    left: 16px; /* Adjust as needed, e.g., 1rem (16px from edge of carousel-container) */
+                /* Original React had left-4, which is 1rem */
+}
+
+.next-btn {
+    right: 16px; /* Adjust as needed, e.g., 1rem (16px from edge of carousel-container) */
+                 /* Original React had right-4, which is 1rem */
+}
+
+/* --- End of Suggested CSS Updates for Carousel --- */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /* CAROUSEL STYLING */
-
-
 
 
 
@@ -819,6 +1105,57 @@ body {
     flex: 0 0 33.33%;
   }
 }
+
+
+
+
+
+
+
+
+
+/* Addition to mobile to make it look centered */
+
+  @media (max-width:480px) {
+    .carousel-container {
+      width: unset;
+    }
+
+
+    .instructors-section {
+      width:100vi;
+      padding-left: 0px;
+      padding-right: 0px;
+    }
+
+    .prev-btn {
+      left: 0rem
+    }
+
+    .next-btn {
+      right: 0rem
+    }
+
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1092,6 +1429,82 @@ body {
 
 
 
+  /* Modal styling for mobile */
+  @media (max-width:480px) {
+
+    .modal {
+      justify-content: center;
+      max-width: 100vi;
+    }
+    
+    
+    .modal-content {
+      max-width: 90vi;
+      padding: 16px; /* Reduced padding for mobile */
+      /* height: auto; Allow height to adjust based on content */
+    }
+
+    #modal-title {
+      font-size: 1.25rem; /* Smaller title for mobile */
+      margin-bottom: 8px; /* Add some margin for mobile */
+    }
+
+
+    .modal-description {
+      font-size: 0.875rem; /* Smaller description for mobile */
+      line-height: 1.25rem;
+    }
+
+    .schedule-day h3 {
+      font-size: 1rem; /* Smaller day title for mobile */
+    }
+    
+    .schedule-item h4 {
+      font-size: 0.875rem; /* Smaller item title for mobile */
+    }
+    .schedule-item p {
+      font-size: 0.75rem; /* Smaller description for mobile */
+    }
+    .pdf-link {
+      font-size: 0.75rem; /* Smaller link text for mobile */
+      padding: 4px 8px; /* Smaller padding for mobile */
+    }
+
+
+
+      
+  .modal-header .close-btn {
+      padding-bottom: 40px;
+  }
+
+
+
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   /* Testimonials Section Styling */
 .testimonials-section {
     width: 100%;
@@ -1197,8 +1610,9 @@ body {
 /* FAQ Section Styling */
 .faq-section {
   width: 100%;
-  padding: 48px 16px; /* py-12 px-4 */
+  padding: 48px 8px; /* py-12 px-4 */
   background-color: #fff;
+  margin: auto;
 }
 
 @media (min-width: 768px) { /* md:py-24 px-6 */
@@ -1262,6 +1676,29 @@ body {
 .accordion-item.open .accordion-content {
   padding: 16px; /* Add padding when expanded */
 }
+
+
+
+
+
+/* FAQ SECTION FOR MOBILE */
+
+
+
+  @media (max-width:480px) {
+    #faq {
+      padding-left: 0px;
+      padding-right: 0px;
+    }
+  }
+
+
+
+
+
+
+
+
 
 
 
@@ -1369,6 +1806,10 @@ body {
 
 
 
+
+
+
+  
 
 
 

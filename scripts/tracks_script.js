@@ -58,7 +58,7 @@ const tracks = [
           From ${start} – ${end} Sarajevo time on ${day}.
         </p>
         <div class="spots-info">Spots left: ${spots[track.name]}</div>
-        <button class="track-btn primary" onclick="window.open('https://forms.gle/RCAQB7QkgS92LWCn6', '_blank')" ${
+        <button class="track-btn primary main-google-form-link" onclick="window.open('https://forms.gle/RCAQB7QkgS92LWCn6', '_blank')" ${
           spots[track.name] === 0 ? "disabled" : ""
         }>
           Reserve Spot
