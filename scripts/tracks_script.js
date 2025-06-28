@@ -10,14 +10,14 @@ const tracks = [
   ];
   
   const spots = {
-    "Beginner A": 25,
-    "Apprentice A": 25,
-    "Machine A": 25,
-    "Shef A": 25,
-    "Beginner B": 25,
-    "Apprentice B": 25,
-    "Machine B": 25,
-    "Shef B": 25
+    "Beginner A": 12,
+    "Apprentice A": 13,
+    "Machine A": 12,
+    "Shef A": 13,
+    "Beginner B": 14,
+    "Apprentice B": 15,
+    "Machine B": 14,
+    "Shef B": 14
   };
 
 
