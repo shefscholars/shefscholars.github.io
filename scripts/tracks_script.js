@@ -10,14 +10,14 @@ const tracks = [
   ];
   
   const spots = {
-    "Beginner A": 12,
-    "Apprentice A": 13,
-    "Machine A": 12,
-    "Shef A": 13,
-    "Beginner B": 14,
-    "Apprentice B": 15,
-    "Machine B": 14,
-    "Shef B": 14
+    "Beginner A": 0,
+    "Apprentice A": 0,
+    "Machine A": 0,
+    "Shef A": 0,
+    "Beginner B": 12,
+    "Apprentice B": 12,
+    "Machine B": 12,
+    "Shef B": 0
   };
 
 
@@ -55,9 +55,10 @@ const tracks = [
         <h3 class="track-name">${track.name}</h3>
 
         <p class="track-description">
-          From ${start} – ${end} Sarajevo time on ${day}.
+          From ${start} – ${end} Paris time on ${day}.
         </p>
-        <div class="spots-info">Spots left: ${spots[track.name]}</div>
+        <div class="spots-info">  ${spots[track.name] > 0 ? "Spots Available" : "Spots Unavailable"}$</div>
+        
         <button class="track-btn primary main-google-form-link" onclick="window.open('https://forms.gle/Wa9grg3488ANUFHi7', '_blank')" ${
           spots[track.name] === 0 ? "disabled" : ""
         }>
