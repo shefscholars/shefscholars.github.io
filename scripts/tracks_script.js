@@ -57,7 +57,7 @@ const tracks = [
         <p class="track-description">
           From ${start} – ${end} Paris time on ${day}.
         </p>
-        <div class="spots-info">  ${spots[track.name] > 0 ? "Spots Available" : "Spots Unavailable"}$</div>
+        <div class="spots-info">  ${spots[track.name] > 0 ? "Spots Available" : "Spots Unavailable"}</div>
         
         <button class="track-btn primary main-google-form-link" onclick="window.open('https://forms.gle/Wa9grg3488ANUFHi7', '_blank')" ${
           spots[track.name] === 0 ? "disabled" : ""
